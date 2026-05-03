@@ -1,6 +1,6 @@
 # 移动端浏览器碎片化记录（排除iOS）
 ## 关于本记录
-国际统计机构（如StatCounter）对中国大陆Android浏览器市场的统计存在明显偏差，经常显示Chrome占据多数份额，这与中国大陆用户的实际情况完全不符。
+国际统计机构（如StatCounter）对中国大陆Android浏览器市场的统计存在明显偏差，经常[显示Chrome占据多数份额](https://gs.statcounter.com/browser-market-share/mobile/china)，这与中国大陆用户的实际情况完全不符。
 
 更重要的是，这些统计几乎完全不关注浏览器内核版本的碎片化问题。本系列聚焦Android&HarmonyOS生态，记录各OEM浏览器、中国大陆第三方浏览器、国际第三方浏览器、常用app内嵌内核的实际Chromium/Firefox版本情况。
 ## 目前推荐的兼容性基线
