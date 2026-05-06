@@ -4,6 +4,6 @@
 
 3、MagicOS初期的荣耀手机用的是Hihonor Webview，最高Chromium版本约为M116[参见](https://club.honor.com/cn/thread-29317614-1-1.html)
 
-4、OriginOS初期的vivo手机用的是vivo system Webview，Chromium版本同样较低
+4、OriginOS初期的vivo手机有vivo system Webview备份（与Google Webview并存），Chromium版本同样较低
 
-结论：虽然新发布的小米/vivo/OPPO/荣耀手机均内置Google Webview，但旧手机可能残存有老Chromium的Huawei Webview、Hihonor Webview、vivo System Webview，更有无数老旧（已停更OTA）手机的Google Webview没有更新
+结论：虽然新发布的小米/vivo/OPPO/荣耀手机均内置Google Webview，但旧手机可能残存有老Chromium的Huawei Webview、Hihonor Webview，更有无数老旧（已停更OTA）手机的Google Webview没有更新
