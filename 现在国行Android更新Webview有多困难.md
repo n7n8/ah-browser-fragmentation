@@ -8,10 +8,9 @@
 
 ​5、系统底层中的“Google 设置”在这些定制 OEM 系统（如 HyperOS、OriginOS、ColorOS 等）中经常被故意隐藏，而“Google 设置>系统服务”正是现在检查Android System Webview更新的主要入口。
 
----
-
 结论：对90%以上的用户来说，Webview更新被锁死到不及时（通常每年低于4次）的OTA更新中
 
+---
 
 解决方案：如何使用已有apk手动更新Android System Webview？
 
@@ -21,6 +20,7 @@
 授权[InstallerX Revived](https://github.com/wxxsfxyzm/InstallerX-Revived)
 的组合）安装Webview apk
 
+---
 
 附注-哪些渠道能更新Android System Webview（✅❎表示，✅表示可更新，❎表示不可更新）？在中国大陆网络条件可用吗（🟢🔴表示，🟢表示可用，🔴表示不可用）？
 
@@ -32,7 +32,7 @@ Apkpure：✅🔴
 
 Uptodown：✅🔴
 
----
+
 
 华为：❎🟢
 
@@ -56,7 +56,7 @@ vivo：❎🟢
 
 Lenovo：❎🟢
 
----
+
 
 [安大师](https://www.apkz.com/zh_cn.html)：✅🟢
 
