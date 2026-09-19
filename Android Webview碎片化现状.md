@@ -6,4 +6,4 @@
 
 4、搭载OriginOS的vivo手机可能安装了vivo system Webview（与默认的Google Webview并存，vivo system Webview非默认）
 
-结论：虽然新发布的小米/vivo/OPPO/荣耀手机均内置Google Webview，但旧手机可能残存有老Chromium的Huawei Webview、Hihonor Webview，更有无数老旧（已停更OTA）手机的Google Webview没有更新
+结论：虽然新发布的小米/vivo/OPPO/荣耀手机均内置Google Webview，但旧手机可能残存有老Chromium的Huawei Webview、Hihonor Webview，更有无数已停更OTA的手机的Google Webview没有及时更新
