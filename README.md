@@ -7,3 +7,7 @@
 1、Chromium 97（百度app、荣耀套壳浏览器）
 
 2、Chromium 114（鸿蒙4华为浏览器、鸿蒙4 Huawei Webview、OPPO浏览器、荣耀浏览器）
+## 特别感谢
+1. [🗂 前端版本兼容问题的探索 - 卤代烃实验室](https://supercodepower.com/fontend-target/)
+2. [💖【投票+测评】你平时用的浏览器内核版本 - 夜雨聆风](https://www.yeyulingfeng.com/83723.html)
+3. [关于手机webview内核、默认浏览器、各家小程序的渲染层浏览器的区别和兼容性 - DCloud社区](https://ask.dcloud.net.cn/m/article/1318)
