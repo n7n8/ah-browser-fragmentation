@@ -3,7 +3,7 @@
 国际统计机构（如StatCounter）对中国大陆Android浏览器市场的统计存在明显偏差，经常[显示Chrome占据多数份额](https://gs.statcounter.com/browser-market-share/mobile/china)，这与中国大陆用户的实际情况完全不符。
 
 更重要的是，这些统计几乎完全不关注浏览器内核版本的碎片化问题。本系列聚焦Android&HarmonyOS生态，记录各OEM浏览器、中国大陆第三方浏览器、国际第三方浏览器、常用app内嵌内核的实际Chromium/Firefox版本情况。
-## 目前推荐的兼容性基线
+## 目前中国大陆Android的浏览器兼容性基线（仅供参考）
 1、Chromium 97（百度app、荣耀套壳浏览器）
 
-2、Chromium 114（鸿蒙4华为浏览器、OPPO浏览器）
+2、Chromium 114（鸿蒙4华为浏览器、鸿蒙4 Huawei Webview、OPPO浏览器、荣耀浏览器）
