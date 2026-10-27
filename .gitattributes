@@ -1,8 +1,9 @@
-# 确保所有文件夹下的 md 和 json 都能被统计到
-# 让所有目录下的 .md 文件化身正统“自然语言”
-**.md linguist-language="Natural Language"
+# 匹配所有目录下的 .md 文件，强制不作为文档，并视为可检测
+*.md linguist-documentation=false
+*.md linguist-detectable=true
 
-**.json linguist-detectable
+# 匹配所有目录下的 .json 文件，强制视为可检测
+*.json linguist-detectable=true
 
-# 匹配所有目录下的 .mht 文件
-# **.mht linguist-language=HTML
+# 匹配所有目录下的 .mht 文件。因为它是网页存档，强制将其识别为 HTML 语言
+*.mht linguist-language=HTML
