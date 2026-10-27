@@ -4,5 +4,5 @@
 
 **.json linguist-detectable
 
-**.mht linguist-documentation=false
-**.mht linguist-detectable
+# 匹配所有目录下的 .mht 文件
+**.mht linguist-language=HTML
