@@ -3,3 +3,6 @@
 **.md linguist-detectable
 
 **.json linguist-detectable
+
+**.mht linguist-documentation=false
+**.mht linguist-detectable
