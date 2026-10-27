@@ -14,7 +14,7 @@ tree/main/
 *   **`2026/`**：
     *   包含这一年的浏览器内核版本数据。
 *   **`Archive/`**：
-    *   存档及备份“特别感谢”中的内容。
+    *   存档及备份[“特别感谢”](https://github.com/n7n8/ah-browser-fragmentation/blob/main/README.md#%E7%89%B9%E5%88%AB%E6%84%9F%E8%B0%A2%E4%BB%A5%E4%B8%8B%E7%BD%91%E9%A1%B5%E5%B7%B2%E5%A4%87%E4%BB%BD%E8%87%B3archive%E6%96%87%E4%BB%B6%E5%A4%B9)中的内容。
 *   **`Posts/`**：
     *   主要讲述中国大陆Android浏览器内核的更新机制。
 *   **`TL;DR/`**：
