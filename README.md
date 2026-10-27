@@ -1,6 +1,16 @@
 # 移动端浏览器碎片化记录（排除iOS）
 > [!NOTE]
 > 一个主要平台如果有能顺利运行Web的主流性能区间与主流系统版本，这个平台就必须要有统一的Web内核治理。
+
+### 📂 目录结构与设计说明
+```ah-browser-fragmentation
+tree/main/
+├── 2026/
+├── Archive/
+├── Posts/
+└── TL;DR/
+```
+
 ### 关于本记录
 国际统计机构（如StatCounter）对中国大陆Android浏览器市场的统计存在明显偏差，经常[显示Chrome占据多数份额](https://gs.statcounter.com/browser-market-share/mobile/china)，这与中国大陆用户的实际情况完全不符。
 
