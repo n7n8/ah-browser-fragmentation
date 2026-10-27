@@ -1,6 +1,6 @@
 # 确保所有文件夹下的 md 和 json 都能被统计到
-**.md linguist-documentation=false
-**.md linguist-detectable
+# 让所有目录下的 .md 文件化身正统“自然语言”
+**.md linguist-language="Natural Language"
 
 **.json linguist-detectable
 
