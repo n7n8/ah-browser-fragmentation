@@ -4,6 +4,3 @@
 
 # 匹配所有目录下的 .json 文件，强制视为可检测
 **.json linguist-detectable=true
-
-# 匹配所有目录下的 .mht 文件。因为它是网页存档，强制将其识别为 HTML 语言
-**.mht linguist-language=HTML
