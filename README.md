@@ -11,6 +11,13 @@ tree/main/
 └── TL;DR/
 ```
 
+*   **`2026/`**：
+    *   包含这一年的浏览器内核版本数据。
+*   **`Archive/`**：
+    *   存档及备份“特别感谢”中的内容。
+*   **`Posts/`**：
+    *   主要讲述中国大陆Android浏览器内核的更新机制。
+
 ### 关于本记录
 国际统计机构（如StatCounter）对中国大陆Android浏览器市场的统计存在明显偏差，经常[显示Chrome占据多数份额](https://gs.statcounter.com/browser-market-share/mobile/china)，这与中国大陆用户的实际情况完全不符。
 
