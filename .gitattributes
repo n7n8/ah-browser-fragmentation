@@ -1,5 +1,5 @@
-# 强制让 GitHub 把 Markdown 视为可检测的语言
-*.md linguist-documentation=false
+# 确保所有文件夹下的 md 和 json 都能被统计到
+**.md linguist-documentation=false
+**.md linguist-detectable
 
-# 强制让 GitHub 把 JSON 视为可检测的语言
-*.json linguist-detectable=true
+**.json linguist-detectable
