@@ -4,6 +4,6 @@
 <!--
 这可以解释：
 为什么中国大陆Android OEM（Xiaomi、vivo、OPPO、HONOR、Lenovo、ZTE）都在拼命出海？
-为什么在中国大陆的换机趋势，Android→iOS/HarmonyOS远远多于iOS/HarmonyOS→Android？
+为什么在中国大陆的换机方向，Android→iOS/HarmonyOS远远多于iOS/HarmonyOS→Android？
 为什么新的华为畅享90/100系列手机（搭载纯血鸿蒙），长期来看会对中国大陆Android OEM造成重大打击？
 -->
