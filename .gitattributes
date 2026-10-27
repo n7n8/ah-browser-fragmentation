@@ -4,6 +4,3 @@
 
 # 匹配所有目录下的 .json 文件，强制视为可检测
 **.json linguist-detectable=true
-
-# 强制让 Linguist 统计 .gitattributes 文件
-.gitattributes linguist-detectable=true linguist-language=INI
