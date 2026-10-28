@@ -44,16 +44,16 @@ tree/main/
 
 1、Chromium 97（正在过时）
 
-- 百度app（淘汰时间：2026年9月；可更新）
-- 荣耀套壳浏览器（淘汰时间：2026年1月；对旧荣耀手机来说近乎“没有更新能力”，不是不能装com.honor.browser，而是大多数用户不会专门装额外的浏览器）
+- [x] 百度app（淘汰时间：2026年9月；可更新）
+- [x] 荣耀套壳浏览器（淘汰时间：2026年1月；对旧荣耀手机来说近乎“没有更新能力”，不是不能装com.honor.browser，而是大多数用户不会专门装额外的浏览器）
 
 2、Chromium 114
 
-- 鸿蒙4 华为浏览器（淘汰时间：2026年3月畅享90系列发布；实际几乎不可更新）
-- 鸿蒙4 Huawei Webview（淘汰时间：2026年3月畅享90系列发布；理论上有132版本Huawei Webview，实际几乎不可更新）
-- OPPO浏览器（Chromium 115）（未淘汰；可更新）
-- 荣耀浏览器（Chromium 116）（淘汰时间：2026年10月；可更新）
-- Hihonor Webview（Chromium 116）（未淘汰，仍在新的荣耀低端机型存在；没有更新能力）
+- [x] 鸿蒙4 华为浏览器（淘汰时间：2026年3月畅享90系列发布；实际几乎不可更新）
+- [x] 鸿蒙4 Huawei Webview（淘汰时间：2026年3月畅享90系列发布；理论上有132版本Huawei Webview，实际几乎不可更新）
+- [ ] OPPO浏览器（Chromium 115）（未淘汰；可更新）
+- [x] 荣耀浏览器（Chromium 116）（淘汰时间：2026年10月；可更新）
+- [ ] Hihonor Webview（Chromium 116）（未淘汰，仍在新的荣耀低端机型存在；没有更新能力）
 
 ### 特别感谢（以下网页已备份至[/Archive](https://github.com/n7n8/ah-browser-fragmentation/tree/main/Archive)文件夹）
 1. [🗂 前端版本兼容问题的探索 - 卤代烃实验室](https://supercodepower.com/fontend-target/)
