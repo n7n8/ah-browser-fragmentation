@@ -41,6 +41,7 @@ tree/main/
 
 ### 公开数据来源（但不是本项目数据唯一来源）
 1. [Chromium Dash - Schedule](https://chromiumdash.appspot.com/schedule)
-2. [Firefox Release Calendar](https://whattrainisitnow.com/calendar/)
-3. [ArkWeb简介-指南与API参考-指南-应用框架-ArkWeb（方舟Web）-ArkWeb简介 - 华为HarmonyOS开发者](https://developer.huawei.com/consumer/cn/doc/doccenter-capabilities/web-component-overview)
-4. [小程序交流专区 | 微信开放社区](https://developers.weixin.qq.com/community/develop/mixflow)
+2. [Microsoft Edge release notes for Stable Channel | Microsoft Learn](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
+3. [Firefox Release Calendar](https://whattrainisitnow.com/calendar/)
+4. [ArkWeb简介-指南与API参考-指南-应用框架-ArkWeb（方舟Web）-ArkWeb简介 - 华为HarmonyOS开发者](https://developer.huawei.com/consumer/cn/doc/doccenter-capabilities/web-component-overview)
+5. [小程序交流专区 | 微信开放社区](https://developers.weixin.qq.com/community/develop/mixflow)
