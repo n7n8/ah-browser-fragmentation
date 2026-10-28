@@ -27,7 +27,9 @@
 
 （中国大陆网络条件）[apkz](https://www.apkz.com/app/com.google.android.webview/en.html)
 
-注意：请不要用APKPure下载非系统应用，尤其是Telegram
+<!-- 注意：请不要用APKPure下载非系统应用，尤其是Telegram -->
+
+对于（支持Google Webview的）vivo、OPPO、荣耀手机用户，直接安装下载好的Android System Webview apk即可
 
 > 如果你是小米手机用户，不能直接安装系统apk，且不方便使用Google Play，建议使用Shizuku+InstallerX Revived的组合
 > 
