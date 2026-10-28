@@ -3,7 +3,9 @@
 [Google Play](https://play.google.com/store/apps/details/Android+System+WebView?id=com.google.android.webview)
 [APKMirror](https://www.apkmirror.com/apk/google-inc/android-system-webview)
 [Uptodown](https://android-system-webview.en.uptodown.com/android)
-[APKPure](https://apkpure.com/android-system-webview-app/com.google.android.webview/amp)（请不要用它下载非系统应用，尤其是Telegram）
+[APKPure](https://apkpure.com/android-system-webview-app/com.google.android.webview/amp)
+
+注意：请不要用APKPure下载非系统应用，尤其是Telegram
 
 如果你是小米手机用户，不能直接安装系统apk，且不方便使用Google Play，建议使用Shizuku+InstallerX Revived的组合
 
