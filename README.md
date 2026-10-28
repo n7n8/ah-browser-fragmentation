@@ -15,7 +15,9 @@
    <img src="./Media/XiaomiBrowser.png" width="50" alt="Logo">
    <img src="./Media/HonorBrowser.png" width="50" alt="Logo">
 </p>
-<p align="center">Android • 主要的OEM浏览器（除了Chrome）</p>
+<p align="center"><small>
+   Android • 主要的OEM浏览器图标（除了Chrome）
+</small></p>
 
 ### 📂 目录结构与设计说明
 ```ah-browser-fragmentation
