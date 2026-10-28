@@ -31,7 +31,9 @@
 
 对于（支持Google Webview的）vivo、OPPO、荣耀手机用户，直接安装下载好的Android System Webview apk即可
 
-> 如果你是小米手机用户，不能直接安装系统apk，且不方便使用Google Play，建议使用Shizuku+InstallerX Revived的组合
+> 如果你是小米手机用户，不能直接安装系统apk，且不方便使用Google Play，建议使用PC adb安装或Shizuku+InstallerX Revived的组合
+> 
+> 注意：需要确保开启开发者选项、adb调试、USB安装
 > 
 > [Shizuku下载链接（rushiranpise/Shizuku-Next）](https://github.com/rushiranpise/Shizuku-Next) [Shizuku教程](https://shizuku.rikka.app/zh-hans/guide/setup)
 > 
