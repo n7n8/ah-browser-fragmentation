@@ -16,7 +16,7 @@
    <img src="./Media/HonorBrowser.png" width="50" alt="Logo">
 </p>
 <p align="center"><sup>
-   Android • 主要的OEM浏览器图标（除了[Chrome](https://play.google.com/store/apps/details?id=com.android.chrome)）
+   Android • 主要的OEM浏览器图标（除了<a href="https://play.google.com/store/apps/details?id=com.android.chrome">Chrome</a>）
 </sup></p>
 
 ### 📂 目录结构与设计说明
