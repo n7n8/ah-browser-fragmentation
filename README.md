@@ -39,7 +39,7 @@ tree/main/
 4. [2021年国产Chrome套壳浏览器的版本号 - zhihu - liu-zhi-qiang-36-54](https://zhuanlan.zhihu.com/p/405207457)
 5. [【安全报告】2017年第一季度 安卓系统安全性生态环境研究 - 安全KER](https://www.anquanke.com/post/id/86161)
 
-### 公开数据来源（但不是本人数据唯一来源）
+### 公开数据来源（但不是本项目数据唯一来源）
 1. [Chromium Dash - Schedule](https://chromiumdash.appspot.com/schedule)
 2. [Firefox Release Calendar](https://whattrainisitnow.com/calendar/)
 3. [ArkWeb简介-指南与API参考-指南-应用框架-ArkWeb（方舟Web）-ArkWeb简介 - 华为HarmonyOS开发者](https://developer.huawei.com/consumer/cn/doc/doccenter-capabilities/web-component-overview)
