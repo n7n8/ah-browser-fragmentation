@@ -19,9 +19,13 @@
 
 ### Google Webview
 
-请用以下链接获取新版Google Webview的apk安装包↓
+优先级：Google Play → apk直接安装 → 小米用户
 
-[Google Play](https://play.google.com/store/apps/details/Android+System+WebView?id=com.google.android.webview)
+1. [Google Play](https://play.google.com/store/apps/details/Android+System+WebView?id=com.google.android.webview)
+
+2. apk直接安装
+
+请用以下链接获取新版Google Webview的apk安装包↓
 
 [APKMirror](https://www.apkmirror.com/apk/google-inc/android-system-webview) [Uptodown](https://android-system-webview.en.uptodown.com/android) [APKPure](https://apkpure.com/android-system-webview-app/com.google.android.webview/amp)
 
@@ -29,7 +33,9 @@
 
 <!-- 注意：请不要用APKPure下载非系统应用，尤其是Telegram -->
 
-对于（支持Google Webview的）vivo、OPPO、荣耀手机用户，直接安装下载好的Android System Webview apk即可
+对于（支持Google Webview的）vivo、OPPO、荣耀、三星、联想、中兴 手机用户，直接安装下载好的Android System Webview apk即可
+
+3. 小米用户
 
 > 如果你是小米手机用户，不能直接安装系统apk，且不方便使用Google Play，建议使用PC adb安装或Shizuku+InstallerX Revived的组合
 > 
