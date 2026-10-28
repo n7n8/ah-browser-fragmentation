@@ -4,6 +4,8 @@
 
 ## 系统Webview更新
 
+建议有一定动手能力的用户采取以下措施。
+
 ### Google Webview
 
 请用以下链接获取新版Google Webview的apk安装包↓
@@ -29,3 +31,5 @@ InstallerX Revived下载链接：
 [Telegram](https://t.me/installerx_revived)
 
 对于小米手机用户，InstallerX Revived的Shizuku权限设置好后，建议在文件管理app中，长按apk文件，点击“分享-InstallerX Revived”进行安装
+
+### Huawei Webview
