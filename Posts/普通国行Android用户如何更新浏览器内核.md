@@ -4,7 +4,18 @@
 
 ## 系统Webview更新
 
-建议有一定动手能力的用户采取以下措施。
+以下建议有一定动手能力的用户采用。
+
+### 如何确定你的手机是哪种 Webview？
+
+1. 打开“开发者选项”，点击“WebView 实现”。如果发现有“Android System Webview”选项，说明其支持Google Webview；如果只有“Huawei Webview”，说明其只支持Huawei Webview；如果只有“Hihonor Webview”，我的教程也就不了你😅
+
+2. 安装[LibChecker](https://github.com/LibChecker/LibChecker)，确保打开“显示系统应用”，搜索“Webview”。在搜索到的app中对照app包名：
+- com.google.android.webview→Google Webview
+- com.huawei.webview→Huawei Webview
+- com.amazon.webview→Amazon Webview
+- com.android.webview→AOSP Webview
+- com.hihonor.webview→Honor Webview
 
 ### Google Webview
 
@@ -33,3 +44,9 @@ InstallerX Revived下载链接：
 对于小米手机用户，InstallerX Revived的Shizuku权限设置好后，建议在文件管理app中，长按apk文件，点击“分享-InstallerX Revived”进行安装
 
 ### Huawei Webview
+
+132版本的[Huawei Webview](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/132.0.6.304)
+
+### Amazon Webview
+
+[APKMirror下载链接](https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-system-webview/)
