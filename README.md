@@ -8,6 +8,13 @@
 
 更重要的是，这些统计几乎完全不关注浏览器内核版本的碎片化问题。本仓库聚焦Android&HarmonyOS生态，记录各OEM浏览器、中国大陆第三方浏览器、国际第三方浏览器、常用app内嵌内核的实际Chromium/Firefox版本情况。
 
+<p align="center">
+   <img src="./Media/VivoBrowser.png" width="100" alt="Logo">
+   <img src="./Media/OPPOBrowser.png" width="100" alt="Logo">
+   <img src="./Media/XiaomiBrowser.png" width="100" alt="Logo">
+   <img src="./Media/HonorBrowser.png" width="100" alt="Logo">
+</p>
+
 ### 📂 目录结构与设计说明
 ```ah-browser-fragmentation
 tree/main/
