@@ -40,13 +40,15 @@
 > 如果你是小米手机用户，不能直接安装系统apk，且不方便使用Google Play，建议使用PC adb安装或Shizuku+InstallerX Revived的组合
 > 
 > 注意：需要确保开启开发者选项、adb调试、USB安装
-> 
-> [Shizuku下载链接（rushiranpise/Shizuku-Next）](https://github.com/rushiranpise/Shizuku-Next) [Shizuku教程](https://shizuku.rikka.app/zh-hans/guide/setup)
-> 
-> InstallerX Revived下载链接：
+> >
+> > 如果使用Shizuku+InstallerX Revived的组合：
+> >
+> > [Shizuku下载链接（rushiranpise/Shizuku-Next）](https://github.com/rushiranpise/Shizuku-Next) [Shizuku教程](https://shizuku.rikka.app/zh-hans/guide/setup)
+> >
+> > InstallerX Revived下载链接：
 [GitHub](https://github.com/wxxsfxyzm/InstallerX-Revived) [Telegram](https://t.me/installerx_revived)
-> 
-> 对于小米手机用户，InstallerX Revived的Shizuku权限设置好后，建议在文件管理app中，长按apk文件，点击“分享-InstallerX Revived”进行安装
+> >
+> > 对于小米手机用户，InstallerX Revived的Shizuku权限设置好后，建议在文件管理app中，长按apk文件，点击“分享-InstallerX Revived”进行安装
 
 ### Huawei Webview
 
