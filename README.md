@@ -2,6 +2,12 @@
 > [!NOTE]
 > 一个主要平台如果有能顺利运行Web的主流性能区间与主流系统版本，这个平台就必须要有统一的Web内核治理。
 
+### 关于本记录
+
+国际统计机构（如StatCounter）对中国大陆Android浏览器市场的统计存在明显偏差，经常[显示Chrome占据多数份额](https://gs.statcounter.com/browser-market-share/mobile/china)，这与中国大陆用户的实际情况完全不符。
+
+更重要的是，这些统计几乎完全不关注浏览器内核版本的碎片化问题。本仓库聚焦Android&HarmonyOS生态，记录各OEM浏览器、中国大陆第三方浏览器、国际第三方浏览器、常用app内嵌内核的实际Chromium/Firefox版本情况。
+
 ### 📂 目录结构与设计说明
 ```ah-browser-fragmentation
 tree/main/
@@ -19,12 +25,6 @@ tree/main/
     *   主要讲述中国大陆Android浏览器内核的更新机制。
 *   **`TL;DR/`**：
     *   我懒得概括了。😅
-
-### 关于本记录
-
-国际统计机构（如StatCounter）对中国大陆Android浏览器市场的统计存在明显偏差，经常[显示Chrome占据多数份额](https://gs.statcounter.com/browser-market-share/mobile/china)，这与中国大陆用户的实际情况完全不符。
-
-更重要的是，这些统计几乎完全不关注浏览器内核版本的碎片化问题。本仓库聚焦Android&HarmonyOS生态，记录各OEM浏览器、中国大陆第三方浏览器、国际第三方浏览器、常用app内嵌内核的实际Chromium/Firefox版本情况。
 
 ### 目前中国大陆Android的浏览器兼容性基线（仅供参考）
 
