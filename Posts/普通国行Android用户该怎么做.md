@@ -9,7 +9,7 @@
 
 如果你是小米手机用户，不能直接安装系统apk，且不方便使用Google Play，建议使用Shizuku+InstallerX Revived的组合
 
-[Shizuku下载链接](https://github.com/rushiranpise/Shizuku-Next)
+[Shizuku下载链接（rushiranpise/Shizuku-Next）](https://github.com/rushiranpise/Shizuku-Next)
 
 [Shizuku教程](https://shizuku.rikka.app/zh-hans/guide/setup)
 
