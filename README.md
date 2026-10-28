@@ -10,7 +10,7 @@
 
 <p align="center">
    <img src="./Media/SamsungBrowser.png" width="50" alt="Logo">
-   <img src="./Media/VivoBrowser-System.png" width="50" alt="Logo">
+   <img src="./Media/VivoBrowser-System.png" width="50" alt="Logo" style="border-radius: 15px;">
    <img src="./Media/OPPOBrowser.png" width="50" alt="Logo">
    <img src="./Media/XiaomiBrowser.png" width="50" alt="Logo">
    <img src="./Media/HonorBrowser.png" width="50" alt="Logo">
