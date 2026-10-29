@@ -8,7 +8,7 @@
 
 ①依赖系统Webview
 - 适用范围：部分浏览器app（如Via浏览器）、部分非浏览器app
-- 更新渠道：基本仅依赖系统更新且更新频率低，因此系统Webview碎片化非常严重。关于Webview更新的问题，详见[《官方渠道更新系统Webview现状&解决方案》](https://github.com/n7n8/ah-browser-fragmentation/blob/main/Posts/%E5%AE%98%E6%96%B9%E6%B8%A0%E9%81%93%E6%9B%B4%E6%96%B0%E7%B3%BB%E7%BB%9FWebview%E7%8E%B0%E7%8A%B6%26%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
+- 更新渠道：基本仅依赖系统更新且更新频率低，因此系统Webview碎片化非常严重。关于Webview更新的问题，详见[《Android Webview碎片化现状》](https://github.com/n7n8/ah-browser-fragmentation/blob/main/Posts/Android%20Webview%E7%A2%8E%E7%89%87%E5%8C%96%E7%8E%B0%E7%8A%B6.md)
 
 ②apk自带内核
 - 适用范围：部分浏览器app（包括“米ov耀”的OEM浏览器）、少数非浏览器app
