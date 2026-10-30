@@ -66,6 +66,10 @@ tree/main/
 6. [安卓电视盒子WebView更新升级完整教程 - 哔哩哔哩](https://www.bilibili.com/opus/1141451214686257177)
 7. [【折腾】魔百盒 CM311-1A 折腾记，成功运行“WebView 电视”，流畅看直播 - 网页电视 - 微信公众号](https://mp.weixin.qq.com/s?__biz=MzkyNTg3NTIyNw==&mid=2247484014&idx=1&sn=8e876c72ca36c4e028405d9ccd7fa221)
 
+### GitHub仓库推荐
+1. [JonaNorman/WebViewUpgrade](https://github.com/JonaNorman/WebViewUpgrade)
+2. [JonaNorman/WebViewPackage](https://github.com/JonaNorman/WebViewPackage)
+
 ### 公开数据来源（但不是本项目数据唯一来源）
 1. [Chromium Dash - Schedule](https://chromiumdash.appspot.com/schedule)
 2. [Microsoft Edge release notes for Stable Channel | Microsoft Learn](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
