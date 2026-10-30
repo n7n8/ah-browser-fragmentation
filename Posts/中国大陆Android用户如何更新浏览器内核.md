@@ -19,7 +19,7 @@
 
 ### Google Webview
 
-优先级：Google Play → apk直接安装 → 小米用户
+优先级：Google Play → apk直接安装 → 小米特殊处理
 
 1. [Google Play](https://play.google.com/store/apps/details/Android+System+WebView?id=com.google.android.webview)
 
@@ -35,7 +35,7 @@
 > 
 > 对于（支持Google Webview的）vivo、OPPO、荣耀、三星、联想、中兴 手机用户，直接安装下载好的Android System Webview apk即可
 
-3. 小米用户
+3. 小米特殊处理
 
 > 如果你是小米手机用户，不能直接安装系统apk，且不方便使用Google Play，建议使用PC adb安装或Shizuku+InstallerX Revived的组合
 > 
