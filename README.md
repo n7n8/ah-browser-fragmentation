@@ -64,7 +64,7 @@ tree/main/
 4. [2021年国产Chrome套壳浏览器的版本号 - zhihu - liu-zhi-qiang-36-54](https://zhuanlan.zhihu.com/p/405207457)
 5. [【安全报告】2017年第一季度 安卓系统安全性生态环境研究 - 安全KER](https://www.anquanke.com/post/id/86161)
 6. [安卓电视盒子WebView更新升级完整教程 - 哔哩哔哩](https://www.bilibili.com/opus/1141451214686257177)
-7. [【折腾】魔百盒 CM311-1A 折腾记，成功运行“WebView 电视”，流畅看直播 - 微信公众号](https://mp.weixin.qq.com/s?__biz=MzkyNTg3NTIyNw==&mid=2247484014&idx=1&sn=8e876c72ca36c4e028405d9ccd7fa221)
+7. [【折腾】魔百盒 CM311-1A 折腾记，成功运行“WebView 电视”，流畅看直播 - 网页电视 - 微信公众号](https://mp.weixin.qq.com/s?__biz=MzkyNTg3NTIyNw==&mid=2247484014&idx=1&sn=8e876c72ca36c4e028405d9ccd7fa221)
 
 ### 公开数据来源（但不是本项目数据唯一来源）
 1. [Chromium Dash - Schedule](https://chromiumdash.appspot.com/schedule)
