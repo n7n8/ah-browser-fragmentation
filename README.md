@@ -2,6 +2,8 @@
 > [!NOTE]
 > 一个主要平台如果有能顺利运行Web的主流性能区间与主流系统版本，这个平台就必须要有统一的Web内核治理。
 
+### [如果你想更新浏览器内核（仅限Android）](https://github.com/n7n8/ah-browser-fragmentation/blob/main/Posts/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86Android%E7%94%A8%E6%88%B7%E5%A6%82%E4%BD%95%E6%9B%B4%E6%96%B0%E6%B5%8F%E8%A7%88%E5%99%A8%E5%86%85%E6%A0%B8.md)
+
 ### 关于本记录
 
 国际统计机构（如StatCounter）对中国大陆Android浏览器市场的统计存在明显偏差，经常[显示Chrome占据多数份额](https://gs.statcounter.com/browser-market-share/mobile/china)，这与中国大陆用户的实际情况完全不符。
