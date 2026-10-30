@@ -53,7 +53,7 @@
 ### Huawei Webview
 
 132版本的[Huawei Webview](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/132.0.6.304)
-[（TG）](https://t.me/kkdx10)
+[（TG Channel）](https://t.me/kkdx10)
 
 ### Amazon Webview
 
