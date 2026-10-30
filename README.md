@@ -72,3 +72,4 @@ tree/main/
 4. [ArkWeb简介-指南与API参考-指南-应用框架-ArkWeb（方舟Web）-ArkWeb简介 - 华为HarmonyOS开发者](https://developer.huawei.com/consumer/cn/doc/doccenter-capabilities/web-component-overview)
 5. [小程序交流专区 | 微信开放社区](https://developers.weixin.qq.com/community/develop/mixflow)
 6. [关于腾讯浏览服务-官网文档中心 - 腾讯浏览服务](https://x5.tencent.com/docs.html#AboutTBS)
+7. [U4 Platform Status](https://developers.uc.cn/features/features.html)
