@@ -69,6 +69,7 @@ tree/main/
 ### GitHub仓库推荐
 1. [JonaNorman/WebViewUpgrade](https://github.com/JonaNorman/WebViewUpgrade)
 2. [JonaNorman/WebViewPackage](https://github.com/JonaNorman/WebViewPackage)
+3. [zoulin3/force_system_webview](https://github.com/zoulin3/force_system_webview)
 
 ### 公开数据来源（但不是本项目数据唯一来源）
 1. [Chromium Dash - Schedule](https://chromiumdash.appspot.com/schedule)
