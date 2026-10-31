@@ -18,7 +18,7 @@
 
 ### 如何确定你的手机是哪种 Webview？
 
-1. 打开“开发者选项”，点击“WebView 实现”。如果发现有“Android System Webview”选项，说明其支持Google Webview；如果只有“Huawei Webview”，说明其只支持Huawei Webview；如果只有“Hihonor Webview”，我的教程也救不了你😅
+1. 打开“开发者选项”，点击“WebView 实现”。如果发现有“Android System Webview”选项，说明其支持Google Webview；如果只有“Huawei Webview”，说明其只支持Huawei Webview；如果只有“Honor Webview”，我的教程也救不了你😅
 
 2. 安装[LibChecker](https://github.com/LibChecker/LibChecker)，确保打开“显示系统应用”，搜索“Webview”。在搜索到的app中对照app包名：
 - com.google.android.webview→Google Webview
