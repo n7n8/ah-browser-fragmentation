@@ -62,5 +62,47 @@
       <th>95</th>
       <th>143</th>
     </tr>
+    <tr>
+      <th>4.4W</th>
+      <th>20</th>
+      <th></th>
+      <th></th>
+    </tr>
+    <tr>
+      <th>4.4</th>
+      <th>19</th>
+      <th>81</th>
+      <th></th>
+    </tr>
+    <tr>
+      <th>4.3</th>
+      <th>18</th>
+      <th></th>
+      <th></th>
+    </tr>
+    <tr>
+      <th>4.2</th>
+      <th>17</th>
+      <th></th>
+      <th></th>
+    </tr>
+    <tr>
+      <th>4.1</th>
+      <th>16</th>
+      <th>71</th>
+      <th>68</th>
+    </tr>
+    <tr>
+      <th>4.0.3-4.0.4</th>
+      <th>15</th>
+      <th></th>
+      <th></th>
+    </tr>
+    <tr>
+      <th>4.0-4.0.2</th>
+      <th>14</th>
+      <th>42</th>
+      <th>55</th>
+    </tr>
   </tbody>
 </table>
