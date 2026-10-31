@@ -6,11 +6,11 @@
 
 ## 系统Webview更新
 
-<p align="center">
+<p align="left">
    <img src="https://github.com/n7n8/ah-browser-fragmentation/blob/main/Media/Android%20System%20WebView.png" width="50" alt="Logo">
    <img src="https://github.com/n7n8/ah-browser-fragmentation/blob/main/Media/HuaweiWebview.png" width="50" alt="Logo">
 </p>
-<p align="center"><sup>
+<p align="left"><sup>
    Google Webview | Huawei Webview
 </sup></p>
 
