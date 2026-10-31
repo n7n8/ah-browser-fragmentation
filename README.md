@@ -71,6 +71,7 @@ tree/main/
 1. [JonaNorman/WebViewUpgrade](https://github.com/JonaNorman/WebViewUpgrade)
 2. [JonaNorman/WebViewPackage](https://github.com/JonaNorman/WebViewPackage)
 3. [zoulin3/force_system_webview](https://github.com/zoulin3/force_system_webview)
+4. [entr0pia/trichromelibrary-squoosh](https://github.com/entr0pia/trichromelibrary-squoosh)
 
 ### 公开数据来源（但不是本项目数据唯一来源）
 1. [Chromium Dash - Schedule](https://chromiumdash.appspot.com/schedule)
