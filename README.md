@@ -10,14 +10,14 @@
 
 更重要的是，这些统计几乎完全不关注浏览器内核版本的碎片化问题。本仓库聚焦Android&HarmonyOS生态，记录各OEM浏览器、中国大陆第三方浏览器、国际第三方浏览器、常用app内嵌内核的实际Chromium/Firefox版本情况。
 
-<p align="left">
+<p align="center">
    <img src="./Media/SamsungBrowser.png" width="50" alt="Logo">
    <img src="./Media/VivoBrowser-System-Round.png" width="50" alt="Logo">
    <img src="./Media/OPPOBrowser.png" width="50" alt="Logo">
    <img src="./Media/XiaomiBrowser.png" width="50" alt="Logo">
    <img src="./Media/HonorBrowser.png" width="50" alt="Logo">
 </p>
-<p align="left"><sup>
+<p align="center"><sup>
    Android • 主要的OEM浏览器图标（除了<a href="https://play.google.com/store/apps/details?id=com.android.chrome">Chrome</a>）
 </sup></p>
 
