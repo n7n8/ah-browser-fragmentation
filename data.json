@@ -267,4 +267,41 @@
       {"name": "Firefox", "category": "国际浏览器", "dynamic-loading": false, "dynamic-name": "", "kernel": "Gecko", "version": 158}
     ]
   }
+  {
+    "date": "2026-11-01",
+    "browsers": [
+      {"name": "vivo", "category": "厂商预装", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 146},
+      {"name": "华为", "category": "厂商预装", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 144},
+      {"name": "三星", "category": "厂商预装", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 143},
+      {"name": "荣耀", "category": "厂商预装", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 143},
+      {"name": "联想", "category": "厂商预装", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 141},
+      {"name": "小米", "category": "厂商预装", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 135},
+      {"name": "OPPO", "category": "厂商预装", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 115},
+      {"name": "狐猴", "category": "第三方", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 154},
+      {"name": "Quetta", "category": "第三方", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 148},
+      {"name": "夸克", "category": "第三方", "dynamic-loading": true, "dynamic-name": "U4", "kernel": "Chromium", "version": 144},
+      {"name": "悟空", "category": "第三方", "dynamic-loading": true, "dynamic-name": "TTWebview", "kernel": "Chromium", "version": 144},
+      {"name": "雨见（红）", "category": "第三方", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 142},
+      {"name": "360极速", "category": "第三方", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 141},
+      {"name": "Alook", "category": "第三方", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 131},
+      {"name": "360", "category": "第三方", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 124},
+      {"name": "UC", "category": "第三方", "dynamic-loading": true, "dynamic-name": "U4", "kernel": "Chromium", "version": 123},
+      {"name": "QQ浏览器", "category": "第三方", "dynamic-loading": true, "dynamic-name": "X5", "kernel": "Chromium", "version": 121},
+      {"name": "搜狗", "category": "第三方", "dynamic-loading": true, "dynamic-name": "X5", "kernel": "Chromium", "version": 121},
+      {"name": "雨见（蓝）", "category": "第三方", "dynamic-loading": false, "dynamic-name": "", "kernel": "Gecko", "version": 155},
+      {"name": "可拓", "category": "第三方", "dynamic-loading": false, "dynamic-name": "", "kernel": "Gecko", "version": 152},
+      {"name": "微信", "category": "App内置", "dynamic-loading": true, "dynamic-name": "XWeb", "kernel": "Chromium", "version": 156},
+      {"name": "抖音", "category": "App内置", "dynamic-loading": true, "dynamic-name": "TTWebview", "kernel": "Chromium", "version": 150},
+      {"name": "百度app", "category": "App内置", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 142},
+      {"name": "支付宝", "category": "App内置", "dynamic-loading": true, "dynamic-name": "AlipayWebview", "kernel": "Chromium", "version": 126},
+      {"name": "Chrome", "category": "国际浏览器", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 156},
+      {"name": "Edge", "category": "国际浏览器", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 156},
+      {"name": "Brave", "category": "国际浏览器", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 156},
+      {"name": "Opera", "category": "国际浏览器", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 154},
+      {"name": "Ecosia", "category": "国际浏览器", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 154},
+      {"name": "Vivaldi", "category": "国际浏览器", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 152},
+      {"name": "Yandex", "category": "国际浏览器", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 152},
+      {"name": "Firefox", "category": "国际浏览器", "dynamic-loading": false, "dynamic-name": "", "kernel": "Gecko", "version": 159}
+    ]
+  }
 ]
