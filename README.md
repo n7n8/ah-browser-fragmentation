@@ -74,6 +74,9 @@ tree/main/
 4. [entr0pia/trichromelibrary-squoosh](https://github.com/entr0pia/trichromelibrary-squoosh)
 5. [dust-yu/sample_webview_android](https://github.com/dust-yu/sample_webview_android)
 
+### Gitee仓库推荐
+1. [半梦半醒/Via浏览器收藏合集](https://gitee.com/daybreak166/ViaBrowserCollection)
+
 ### 公开数据来源（但不是本项目数据唯一来源）
 1. [Chromium Dash - Schedule](https://chromiumdash.appspot.com/schedule)
 2. [Microsoft Edge release notes for Stable Channel | Microsoft Learn](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
