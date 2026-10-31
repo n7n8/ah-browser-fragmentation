@@ -68,12 +68,12 @@ tree/main/
 8. [经过研究，安卓翻身论破产 - 酷安](https://www.coolapk.com/feed/67764470)
 
 ### GitHub仓库推荐
-1. [JonaNorman/WebViewUpgrade](https://github.com/JonaNorman/WebViewUpgrade)
-2. [JonaNorman/WebViewPackage](https://github.com/JonaNorman/WebViewPackage)
-3. [zoulin3/force_system_webview](https://github.com/zoulin3/force_system_webview)
-4. [entr0pia/trichromelibrary-squoosh](https://github.com/entr0pia/trichromelibrary-squoosh)
+1. [JonaNorman/WebViewUpgrade | Android免安装升级WebView内核](https://github.com/JonaNorman/WebViewUpgrade)
+2. [JonaNorman/WebViewPackage | 收集和归档各厂商 Android WebView APK](https://github.com/JonaNorman/WebViewPackage)
+3. [zoulin3/force_system_webview | 强制 Android 应用使用系统 WebView](https://github.com/zoulin3/force_system_webview)
+4. [entr0pia/trichromelibrary-squoosh | 移除过时的 TrichromeLibrary](https://github.com/entr0pia/trichromelibrary-squoosh)
 5. [dust-yu/sample_webview_android](https://github.com/dust-yu/sample_webview_android)
-6. [daybreak1929/ViaBrowserCollection](https://github.com/daybreak1929/ViaBrowserCollection)
+6. [daybreak1929/ViaBrowserCollection | Via浏览器收藏合集](https://github.com/daybreak1929/ViaBrowserCollection)
 
 ### Gitee仓库推荐
 1. [半梦半醒/Via浏览器收藏合集](https://gitee.com/daybreak166/ViaBrowserCollection)
