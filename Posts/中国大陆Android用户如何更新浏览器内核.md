@@ -6,6 +6,14 @@
 
 ## 系统Webview更新
 
+<p align="center">
+   <img src="https://github.com/n7n8/ah-browser-fragmentation/blob/main/Media/Android%20System%20WebView.png" width="50" alt="Logo">
+   <img src="https://github.com/n7n8/ah-browser-fragmentation/blob/main/Media/HuaweiWebview.png" width="50" alt="Logo">
+</p>
+<p align="center"><sup>
+   Google Webview | Huawei Webview
+</sup></p>
+
 以下建议有一定动手能力的用户采用。
 
 ### 如何确定你的手机是哪种 Webview？
