@@ -17,7 +17,7 @@
     <tr>
       <th>9</th>
       <th>28</th>
-      <th>138</th>
+      <th></th>
       <th></th>
     </tr>
     <tr>
@@ -29,7 +29,7 @@
     <tr>
       <th>8</th>
       <th>26</th>
-      <th></th>
+      <th>138</th>
       <th>now</th>
     </tr>
     <tr>
