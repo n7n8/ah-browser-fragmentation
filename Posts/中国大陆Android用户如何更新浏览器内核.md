@@ -39,7 +39,7 @@
 >
 > [APKMirror](https://www.apkmirror.com/apk/google-inc/android-system-webview) [Uptodown](https://android-system-webview.en.uptodown.com/android) [APKPure](https://apkpure.com/android-system-webview-app/com.google.android.webview/amp)
 > 
-> （中国大陆网络条件）[apkz](https://www.apkz.com/app/com.google.android.webview/en.html)
+> （中国大陆网络条件）[apkz](https://www.apkz.com/app/com.google.android.webview/en.html) [当快软件园](https://www.downkuai.com/android/167450.html)
 > 
 > <!-- 注意：请不要用APKPure下载非系统应用，尤其是Telegram -->
 > 
