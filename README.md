@@ -73,6 +73,7 @@ tree/main/
 3. [zoulin3/force_system_webview](https://github.com/zoulin3/force_system_webview)
 4. [entr0pia/trichromelibrary-squoosh](https://github.com/entr0pia/trichromelibrary-squoosh)
 5. [dust-yu/sample_webview_android](https://github.com/dust-yu/sample_webview_android)
+6. [daybreak1929/ViaBrowserCollection](https://github.com/daybreak1929/ViaBrowserCollection)
 
 ### Gitee仓库推荐
 1. [半梦半醒/Via浏览器收藏合集](https://gitee.com/daybreak166/ViaBrowserCollection)
