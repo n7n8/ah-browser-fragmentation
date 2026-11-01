@@ -1,37 +1,187 @@
-### 1. 哪些渠道能更新Android System Webview
-（✅❎表示，✅表示可更新，❎表示不可更新）？在中国大陆网络条件可用吗（🟢🔴表示，🟢表示可用，🔴表示不可用）？
+## 1. Android System Webview 更新渠道
 
-- Google Play：✅🔴
-- APKMirror：✅🔴
-- Apkpure：✅🔴
-- Uptodown：✅🔴
-- 
-- 华为：❎🟢
-- 荣耀：❎🟢
-- 小米：❎🟢
-- OPPO：❎🟢
-- vivo：❎🟢
-- 百度：❎🟢
-- 豌豆荚：❎🟢
-- 腾讯：❎🟢
-- 魅族：❎🟢
-- Lenovo：❎🟢
-- 
-- [安大师](https://www.apkz.com/zh_cn.html)：✅🟢
-- 酷安：（需搜索“Webview”，进入网友分享的网盘链接；官方不上架）🟢
-- [AppShare](https://app.sharess.cn/)：
-（需搜索“Webview”，进入网友分享的网盘链接；可能需要下载app）🟢
+（✅表示可更新，❎表示不可更新；🟢🔴表示是否中国大陆网络条件可用，🟢表示可用，🔴表示不可用）
+
+<table>
+  <thead>
+    <tr>
+      <th>渠道</th>
+      <th>能否更新</th>
+      <th>中国大陆网络条件是否可用</th>
+      <th>备注</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Google Play</td>
+      <td>✅</td>
+      <td>🔴</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>APKMirror</td>
+      <td>✅</td>
+      <td>🔴</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Apkpure</td>
+      <td>✅</td>
+      <td>🔴</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Uptodown</td>
+      <td>✅</td>
+      <td>🔴</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>华为</td>
+      <td>❎</td>
+      <td>🟢</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>荣耀</td>
+      <td>❎</td>
+      <td>🟢</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>小米</td>
+      <td>❎</td>
+      <td>🟢</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>OPPO</td>
+      <td>❎</td>
+      <td>🟢</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>vivo</td>
+      <td>❎</td>
+      <td>🟢</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>百度</td>
+      <td>❎</td>
+      <td>🟢</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>豌豆荚</td>
+      <td>❎</td>
+      <td>🟢</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>腾讯应用宝</td>
+      <td>❎</td>
+      <td>🟢</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>魅族</td>
+      <td>❎</td>
+      <td>🟢</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Lenovo</td>
+      <td>❎</td>
+      <td>🟢</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.apkz.com/zh_cn.html">
+          安大师
+        </a>
+      </td>
+      <td>✅</td>
+      <td>🟢</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>酷安</td>
+      <td>✅</td>
+      <td>🟢</td>
+      <td>需搜索"Webview"，进入网友分享的网盘链接；官方不上架</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://app.sharess.cn/">
+          AppShare
+        </a>
+      </td>
+      <td>✅</td>
+      <td>🟢</td>
+      <td>需搜索"Webview"，进入网友分享的网盘链接；可能需要下载app</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-### 2. 各个跟进主线的Android浏览器是否在中国大陆地区服务？
+## 2. 各个跟进主线的Android浏览器是否在中国大陆地区服务
 
-- Brave：🔴否
-- Chrome：🟡不确定（部分品牌应用商店灰色上架）
-- Ecosia：🔴否
-- Edge：🟢是
-- Firefox：🔴否
-- Opera：🔴否
-- Vivaldi：🔴否
-- Yandex：🔴否
-- XWeb（微信）：🟢是（但这不是浏览器）
+<table>
+  <thead>
+    <tr>
+      <th>浏览器</th>
+      <th>是否在中国大陆地区服务</th>
+      <th>备注</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Brave</td>
+      <td>🔴否</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Chrome</td>
+      <td>🟡不确定</td>
+      <td>部分品牌应用商店灰色上架</td>
+    </tr>
+    <tr>
+      <td>Ecosia</td>
+      <td>🔴否</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Edge</td>
+      <td>🟢是</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Firefox</td>
+      <td>🔴否</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Opera</td>
+      <td>🔴否</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Vivaldi</td>
+      <td>🔴否</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Yandex</td>
+      <td>🔴否</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>XWeb（微信）</td>
+      <td>🟢是</td>
+      <td>但这不是浏览器</td>
+    </tr>
+  </tbody>
+</table>
