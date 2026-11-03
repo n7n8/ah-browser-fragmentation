@@ -14,6 +14,7 @@
    <img src="./Media/SamsungBrowser.png" width="50" alt="Samsung">
    <img src="./Media/LenovoBrowser.png" width="50" alt="Lenovo">
    <img src="./Media/VivoBrowser-System-Round.png" width="50" alt="vivo">
+   
    <img src="./Media/OPPOBrowser.png" width="50" alt="OPPO">
    <img src="./Media/XiaomiBrowser.png" width="50" alt="Xiaomi">
    <img src="./Media/HonorBrowser.png" width="50" alt="HONOR">
