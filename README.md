@@ -57,7 +57,7 @@ tree/main/
 - [x] 荣耀浏览器（Chromium 116）（淘汰时间：2026年10月；可更新）
 - [ ] Hihonor Webview（Chromium 116）（未淘汰，仍在新的荣耀低端机型存在；没有更新能力）
 
-### 特别感谢（以下网页已备份至[/Archive](https://github.com/n7n8/ah-browser-fragmentation/tree/main/Archive)文件夹）
+### 特别感谢（以下网页已备份至[/Archive](./Archive)文件夹）
 1. [🗂 前端版本兼容问题的探索 - 卤代烃实验室](https://supercodepower.com/fontend-target/)
 2. [💖【投票+测评】你平时用的浏览器内核版本 - 夜雨聆风](https://www.yeyulingfeng.com/83723.html)
 3. [关于手机webview内核、默认浏览器、各家小程序的渲染层浏览器的区别和兼容性 - DCloud社区](https://ask.dcloud.net.cn/m/article/1318)
