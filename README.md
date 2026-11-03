@@ -14,7 +14,7 @@
    <img src="./Media/SamsungBrowser.png" width="50" alt="Samsung">
    <img src="./Media/LenovoBrowser.png" width="50" alt="Lenovo">
    <img src="./Media/VivoBrowser-System-Round.png" width="50" alt="vivo">
-<br>
+   <br>
    <img src="./Media/OPPOBrowser.png" width="50" alt="OPPO">
    <img src="./Media/XiaomiBrowser.png" width="50" alt="Xiaomi">
    <img src="./Media/HonorBrowser.png" width="50" alt="HONOR">
@@ -45,6 +45,8 @@ tree/main/
     *   我懒得概括了。😅
 
 ### 目前中国大陆Android的浏览器兼容性基线（仅供参考）
+
+注：“淘汰”指 不再停留在这个版本、不再新增预装、软件不再存在 中的至少其一
 
 1、Chromium 97（正在过时）
 
