@@ -69,8 +69,8 @@
 
 ### Huawei Webview
 
-132版本的[Huawei Webview](https://github.com/n7n8/ah-browser-fragmentation/releases)
-[（Telegram Channel）](https://t.me/kkdx10)
+132版本的Huawei Webview（[GitHub Release](https://github.com/n7n8/ah-browser-fragmentation/releases)
+[Telegram Channel](https://t.me/kkdx10)）
 
 > 注意：需要先安装Huawei Trichrome Library
 
