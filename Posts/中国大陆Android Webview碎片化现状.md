@@ -23,4 +23,4 @@ MagicOS初期的荣耀手机、现在的低端荣耀手机（Play、畅玩系列
 
 ①**对于预装Google WebView的中国大陆Android设备，其WebView版本与Android版本存在强烈的时间正相关性**。
 
-②虽然新发布的小米/vivo/OPPO/荣耀（荣耀低端机除外）手机均内置Google Webview，但存量华为HarmonyOS 4-、荣耀初期手机残存有老Chromium的Huawei Webview、Hihonor Webview，更有无数已停更OTA的手机的Google Webview没有及时更新。
+②虽然新发布的小米/vivo/OPPO/荣耀（荣耀低端机除外）手机均内置Google Webview，但仍有许多存量华为HarmonyOS 4-、荣耀初期手机残存有老Chromium的Huawei Webview、Hihonor Webview，更有无数已停更OTA的手机的Google Webview没有及时更新。
