@@ -60,7 +60,7 @@
 > >
 > > 如果使用Shizuku+InstallerX Revived的组合：
 > >
-> > Shizuku（rushiranpise/Shizuku-Next）：
+> > <img src="https://github.com/rushiranpise/Shizuku-Next/blob/master/docs/logo.png" width="16" /> Shizuku（rushiranpise/Shizuku-Next）：
 > >
 > > [GitHub下载链接](https://github.com/rushiranpise/Shizuku-Next) [使用教程](https://shizuku.rikka.app/zh-hans/guide/setup)
 > >
