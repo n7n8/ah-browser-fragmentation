@@ -60,10 +60,13 @@
 > >
 > > 如果使用Shizuku+InstallerX Revived的组合：
 > >
-> > Shizuku（rushiranpise/Shizuku-Next）：[下载链接](https://github.com/rushiranpise/Shizuku-Next) [使用教程](https://shizuku.rikka.app/zh-hans/guide/setup)
+> > Shizuku（rushiranpise/Shizuku-Next）：
+> >
+> > [GitHub下载链接](https://github.com/rushiranpise/Shizuku-Next) [使用教程](https://shizuku.rikka.app/zh-hans/guide/setup)
 > >
 > > InstallerX Revived下载链接：
-[GitHub](https://github.com/wxxsfxyzm/InstallerX-Revived) [Telegram](https://t.me/installerx_revived)
+> >
+> > [GitHub](https://github.com/wxxsfxyzm/InstallerX-Revived) [Telegram](https://t.me/installerx_revived)
 > >
 > > 对于小米手机用户，InstallerX Revived的Shizuku权限设置好后，建议在文件管理app中，长按apk文件，点击“分享-InstallerX Revived”进行安装
 
