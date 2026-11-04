@@ -19,4 +19,4 @@ MagicOS初期的荣耀手机用的是Hihonor Webview，最高Chromium版本约�
 
 ---
 
-结论：对于预装Google WebView的中国大陆Android设备，其WebView版本与Android版本存在强烈的正相关性；虽然新发布的小米/vivo/OPPO/荣耀手机均内置Google Webview，但旧手机可能残存有老Chromium的Huawei Webview、Hihonor Webview，更有无数已停更OTA的手机的Google Webview没有及时更新
+结论：**对于预装Google WebView的中国大陆Android设备，其WebView版本与Android版本存在强烈的正相关性**；虽然新发布的小米/vivo/OPPO/荣耀手机均内置Google Webview，但旧手机可能残存有老Chromium的Huawei Webview、Hihonor Webview，更有无数已停更OTA的手机的Google Webview没有及时更新
