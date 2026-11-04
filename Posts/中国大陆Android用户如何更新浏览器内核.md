@@ -60,7 +60,7 @@
 > >
 > > 如果使用Shizuku+InstallerX Revived的组合：
 > >
-> > [Shizuku下载链接（rushiranpise/Shizuku-Next）](https://github.com/rushiranpise/Shizuku-Next) [Shizuku教程](https://shizuku.rikka.app/zh-hans/guide/setup)
+> > Shizuku（rushiranpise/Shizuku-Next）：[下载链接](https://github.com/rushiranpise/Shizuku-Next) [使用教程](https://shizuku.rikka.app/zh-hans/guide/setup)
 > >
 > > InstallerX Revived下载链接：
 [GitHub](https://github.com/wxxsfxyzm/InstallerX-Revived) [Telegram](https://t.me/installerx_revived)
