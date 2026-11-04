@@ -64,7 +64,7 @@
 > >
 > > [GitHub下载链接](https://github.com/rushiranpise/Shizuku-Next) [使用教程](https://shizuku.rikka.app/zh-hans/guide/setup)
 > >
-> > <img src="https://wxxsfxyzm.github.io/InstallerX-Revived-Website/ic_launcher.svg" width="16" />InstallerX Revived下载链接：
+> > <img src="https://wxxsfxyzm.github.io/InstallerX-Revived-Website/ic_launcher.svg" width="16" /> InstallerX Revived下载链接：
 > >
 > > [GitHub](https://github.com/wxxsfxyzm/InstallerX-Revived) [Telegram](https://t.me/installerx_revived)
 > >
