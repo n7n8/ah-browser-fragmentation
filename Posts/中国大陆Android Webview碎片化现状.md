@@ -12,7 +12,7 @@
 EMUI、HarmonyOS 2/3/4 使用Huawei Webview，最高Chromium版本为M132（2026-11仅少量推送），大多数仍在M114。
 
 ### 3. Honor Webview
-MagicOS初期的荣耀手机用的是Hihonor Webview，最高Chromium版本约为M116[参见](https://club.honor.com/cn/thread-29317614-1-1.html)
+MagicOS初期的荣耀手机、现在的低端荣耀手机（Play、畅玩系列）使用Hihonor Webview，最高Chromium版本约为M116[参见](https://club.honor.com/cn/thread-29317614-1-1.html)
 
 ### 4. vivo system Webview
 搭载OriginOS的vivo手机可能安装了vivo system Webview，与默认的Google Webview并存（vivo system Webview非默认）
