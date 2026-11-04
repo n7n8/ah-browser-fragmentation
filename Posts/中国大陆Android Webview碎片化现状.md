@@ -6,17 +6,21 @@
 4. 由于Google的Android系统变动，Google Play 商店现在已经搜索不到 Android System Webview 的应用界面，转移到“Google 设置>系统服务”。
 5. 系统设置中的“Google 设置（Activity名称：com.google.android.gms.app.settings.GoogleSettingsIALink）”在这些定制 OEM 系统中可能被故意隐藏（特别点名 HyperOS 隐藏了它），而“Google 设置>系统服务”正是现在手动检查Android System Webview更新的主要入口。
 
-“碎片化现状”结论：对90%以上的用户来说，Webview更新被锁死到不及时（估计每年低于4次）的OTA更新中。这导致新版Google Webview（最新版本，主要是Google Play用户）、次新版Google Webview（落后5-15个版本，主要是依靠OTA升级Webview的新手机）、老版本Webview（落后20个版本以上，存在于老机型、低端机型）同时存在
+“碎片化现状”结论：对90%以上的用户来说，Webview更新被锁死到不及时（估计每年低于4次）的OTA更新中。这导致新版Google Webview（最新版本，主要是Google Play用户）、次新版Google Webview（落后5-15个版本，主要是依靠OTA升级Webview的新手机）、老版本Webview（落后20个版本以上，存在于老机型、低端机型）同时存在。
 
 ### 2. Huawei Webview
-EMUI、HarmonyOS 2/3/4 使用Huawei Webview，最高Chromium版本为M132（2026-11仅少量推送），大多数仍在M114
+EMUI、HarmonyOS 2/3/4 使用Huawei Webview，最高Chromium版本为M132（2026-11仅少量推送），大多数仍在M114。
 
 ### 3. Honor Webview
 MagicOS初期的荣耀手机用的是Hihonor Webview，最高Chromium版本约为M116[参见](https://club.honor.com/cn/thread-29317614-1-1.html)
 
 ### 4. vivo system Webview
-搭载OriginOS的vivo手机可能安装了vivo system Webview（与默认的Google Webview并存，vivo system Webview非默认）
+搭载OriginOS的vivo手机可能安装了vivo system Webview，与默认的Google Webview并存（vivo system Webview非默认）
 
 ---
 
-结论：**对于预装Google WebView的中国大陆Android设备，其WebView版本与Android版本存在强烈的正相关性**；虽然新发布的小米/vivo/OPPO/荣耀手机均内置Google Webview，但旧手机可能残存有老Chromium的Huawei Webview、Hihonor Webview，更有无数已停更OTA的手机的Google Webview没有及时更新
+结论：
+
+①**对于预装Google WebView的中国大陆Android设备，其WebView版本与Android版本存在强烈的时间正相关性**。
+
+②虽然新发布的小米/vivo/OPPO/荣耀（荣耀低端机除外）手机均内置Google Webview，但存量华为、荣耀初期手机残存有老Chromium的Huawei Webview、Hihonor Webview，更有无数已停更OTA的手机的Google Webview没有及时更新。
