@@ -38,7 +38,7 @@ tree/main/
 *   **[Media/](./Media/)**:
     *   Used to store image content.
 *   **[Archive/](./Archive/)**:
-    *   Archive and backup of the content in ["Special Thanks"](./README.md#%E7%89%B9%E5%88%AB%E6%84%9F%E8%B0%A2%E4%BB%A5%E4%B8%8B%E7%BD%91%E9%A1%B5%E5%B7%B2%E5%A4%87%E4%BB%BD%E8%87%B3archive%E6%96%87%E4%BB%B6%E5%A4%B9).
+    *   Archive and backup of the content in ["Special Thanks"](./README_en.md#special-thanks-the-following-webpages-have-been-backed-up-to-the-archive-folder).
 *   **[Posts/](./Posts/)**:
     *   Mainly describes the update mechanism of Android browser kernels in mainland China.
 *   **[TL;DR/](./TL;DR/)**:
