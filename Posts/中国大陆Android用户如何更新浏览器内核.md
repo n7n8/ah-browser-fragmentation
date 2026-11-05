@@ -51,7 +51,9 @@
 > 
 > 注意：需要确保开启开发者选项、adb调试、USB安装
 > 
-> adb下载链接：[全球站](https://developer.android.com/tools/releases/platform-tools#downloads) [CN站](https://developer.android.google.cn/tools/releases/platform-tools#downloads)
+> （adb 包含在 Android SDK Platform-Tools 软件包中）
+> Android SDK Platform-Tools下载链接：
+> [全球站](https://developer.android.com/tools/releases/platform-tools#downloads) [CN站](https://developer.android.google.cn/tools/releases/platform-tools#downloads)
 >
 > adb安装命令：
 > 
