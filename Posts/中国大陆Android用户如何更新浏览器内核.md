@@ -50,6 +50,8 @@
 > 如果你是小米手机用户，不能直接安装系统apk，且不方便使用Google Play，建议使用PC adb安装或Shizuku+InstallerX Revived的组合
 > 
 > 注意：需要确保开启开发者选项、adb调试、USB安装
+> 
+> adb下载链接：[全球站](https://developer.android.com/tools/releases/platform-tools#downloads) [CN站](https://developer.android.google.cn/tools/releases/platform-tools#downloads)
 >
 > adb安装命令：
 > 
