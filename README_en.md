@@ -83,7 +83,7 @@ Note: "Phased out" refers to at least one of the following: "kernel version has 
 2. [Microsoft Edge release notes for Stable Channel | Microsoft Learn](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
 3. [Firefox Release Calendar](https://whattrainisitnow.com/calendar/)
 4. [Supported browsers | Baseline](https://web-platform-dx.github.io/supported-browsers/?target=widelyAvailable)
-5. [ArkWeb Introduction - Guide and API Reference - Guide - Application Framework - ArkWeb (Ark Web) - ArkWeb Introduction - Huawei HarmonyOS Developer](https://developer.huawei.com/consumer/cn/doc/doccenter-capabilities/web-component-overview)
+5. [ArkWeb Introduction - Guide and API Reference - Guide - Application Framework - ArkWeb - ArkWeb Introduction - Huawei HarmonyOS Developer](https://developer.huawei.com/consumer/cn/doc/doccenter-capabilities/web-component-overview)
 6. [Mini Program Exchange Zone | WeChat Open Community](https://developers.weixin.qq.com/community/develop/mixflow)
 7. [About Tencent Browsing Service - Official Website Documentation Center - Tencent Browsing Service](https://x5.tencent.com/docs.html#AboutTBS)
 8. [U4 Platform Status](https://developers.uc.cn/features/features.html)
