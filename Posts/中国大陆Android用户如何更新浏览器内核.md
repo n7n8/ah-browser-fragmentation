@@ -27,7 +27,7 @@
 - com.android.webview→AOSP Webview
 - com.hihonor.webview→Honor Webview
 
-### Google Webview
+### Google Webview（Android 10+）
 
 优先级：Google Play → apk直接安装 → 小米特殊处理
 
@@ -75,6 +75,9 @@
 > > [GitHub](https://github.com/wxxsfxyzm/InstallerX-Revived) [Telegram](https://t.me/installerx_revived)
 > >
 > > 对于小米手机用户，InstallerX Revived的Shizuku权限设置好后，建议在文件管理app中，长按apk文件，点击“分享-InstallerX Revived”进行安装
+
+### Google Webview（Android 5-9）
+[下载链接](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Google)
 
 ### Huawei Webview
 
