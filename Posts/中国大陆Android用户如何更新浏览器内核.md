@@ -25,7 +25,7 @@
 - com.huawei.webview→Huawei Webview
 - com.amazon.webview→Amazon Webview
 - com.android.webview→AOSP Webview
-- com.hihonor.webview→Honor Webview
+- com.hihonor.webview→Hihonor Webview
 
 ### Google Webview（Android 10+）
 
