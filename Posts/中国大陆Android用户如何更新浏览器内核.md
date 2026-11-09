@@ -77,7 +77,7 @@
 > > 对于小米手机用户，InstallerX Revived的Shizuku权限设置好后，建议在文件管理app中，长按apk文件，点击“分享-InstallerX Revived”进行安装
 
 ### Google Webview（Android 5-9）
-[下载链接](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Google)
+[GitHub Release下载链接](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Google)
 
 ### Huawei Webview
 
