@@ -8,3 +8,7 @@
 - 微信、抖音、支付宝 的内置浏览器内核
 - 系统Webview的严重碎片化
 - “动态加载”浏览器内核的存在
+
+<!--
+<https://www.canva.cn/help/update-android-webview-version/>
+-->
