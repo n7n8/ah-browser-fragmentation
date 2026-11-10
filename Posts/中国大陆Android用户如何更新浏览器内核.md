@@ -84,7 +84,8 @@
 132版本的Huawei Webview（[GitHub](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Huawei(EMUI))
 [Telegram](https://t.me/kkdx10)）
 
-> 注意：需要先安装Huawei Trichrome Library
+> [!IMPORTANT]
+> 注意：一定要先安装Huawei Trichrome Library
 
 ### Amazon Webview
 
