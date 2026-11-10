@@ -99,7 +99,7 @@
       {"name": "三星", "category": "厂商预装", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 143},
       {"name": "小米", "category": "厂商预装", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 135},
       {"name": "vivo", "category": "厂商预装", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 131},
-      {"name": "荣耀", "category": "厂商预装", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": [116, 143]},
+      {"name": "荣耀", "category": "厂商预装", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 116},
       {"name": "OPPO", "category": "厂商预装", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 115},
       {"name": "夸克", "category": "第三方", "dynamic-loading": true, "dynamic-name": "U4", "kernel": "Chromium", "version": 144},
       {"name": "Alook", "category": "第三方", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 131},
