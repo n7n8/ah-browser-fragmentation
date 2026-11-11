@@ -88,6 +88,7 @@ tree/main/
 4. [entr0pia/trichromelibrary-squoosh | 移除过时的 TrichromeLibrary](https://github.com/entr0pia/trichromelibrary-squoosh)
 5. [dust-yu/sample_webview_android](https://github.com/dust-yu/sample_webview_android)
 6. [daybreak1929/ViaBrowserCollection | Via浏览器收藏合集](https://github.com/daybreak1929/ViaBrowserCollection)
+7. [tuyafeng/Via | Via浏览器](https://github.com/tuyafeng/Via)
 
 ### Gitee仓库推荐
 
