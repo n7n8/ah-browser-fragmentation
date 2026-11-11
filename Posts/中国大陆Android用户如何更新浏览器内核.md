@@ -110,7 +110,9 @@
 > adb shell dumpsys package|grep name:com
 > ```
 > 
-> 卸载多余的 Huawei Trichrome Library（留意 versionCode，只需要卸载“②有出现且①没有出现”的versionCode相关的 Trichrome Library！）
+> 卸载多余的 Huawei Trichrome Library
+>
+> （留意 versionCode，只需要卸载“②有出现且①没有出现”的versionCode相关的 Trichrome Library！）
 > 
 > ```
 > adb shell pm uninstall com.huawei.triwebviewlib_$versionCode
