@@ -44,6 +44,8 @@ tree/main/
     *   Mainly describes the update mechanism of Android browser kernels in mainland China.
 *   **[TL;DR/](./TL;DR/)**:
     *   I'm too lazy to summarize. 😅
+*   **[data.json](./data.json)**：
+    *   A machine-readable document containing data on browser engine versions.
 
 ### Current Browser Compatibility Baseline for Android in Mainland China (For Reference Only)
 Note: "Phased out" refers to at least one of the following: "kernel version has been replaced by a higher version", "new pre-installation has been stopped", "software has been removed from shelves/distribution stopped".
