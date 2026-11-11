@@ -8,6 +8,7 @@
 ### [How to Update the Browser Kernel on Android (Mainland China)](./Posts/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86Android%E7%94%A8%E6%88%B7%E5%A6%82%E4%BD%95%E6%9B%B4%E6%96%B0%E6%B5%8F%E8%A7%88%E5%99%A8%E5%86%85%E6%A0%B8.md)
 
 ### About This Record
+
 International statistics agencies (such as StatCounter) have obvious deviations in their statistics of the Android browser market in mainland China, often [showing Chrome occupying the majority share](https://gs.statcounter.com/browser-market-share/mobile/china), which is completely inconsistent with the actual situation of mainland Chinese users.
 
 More importantly, these statistics almost completely ignore the fragmentation of browser kernel versions. This repository focuses on the Android & HarmonyOS ecosystem, recording the actual Chromium/Firefox versions of various OEM browsers, third-party browsers in mainland China, international third-party browsers, and embedded kernels in commonly used apps.
@@ -26,7 +27,8 @@ More importantly, these statistics almost completely ignore the fragmentation of
 </sup></p>
 
 ### 📂 Directory Structure and Design Notes
-```ah-browser-fragmentation
+
+```
 tree/main/
 ├── 2026/
 ├── Media/
@@ -49,6 +51,7 @@ tree/main/
     *   A machine-readable document containing data on browser engine versions.
 
 ### Current Browser Compatibility Baseline for Android in Mainland China (For Reference Only)
+
 Note: "Phased out" refers to at least one of the following: "kernel version has been replaced by a higher version", "new pre-installation has been stopped", "software has been removed from shelves/distribution stopped".
 1. Chromium 97 (becoming obsolete)
 - [x] Baidu App (phased out: September 2026; updatable)
@@ -61,6 +64,7 @@ Note: "Phased out" refers to at least one of the following: "kernel version has 
 - [ ] Hihonor Webview (Chromium 116) (not phased out, still exists on new Honor low-end models; no update capability)
 
 ### Special Thanks (The following webpages have been backed up to the [/Archive](./Archive) folder)
+
 1. [🗂 Exploration of Frontend Version Compatibility Issues - Halohydrocarbon Laboratory](https://supercodepower.com/fontend-target/)
 2. [💖【Vote + Review】What Browser Kernel Version Do You Usually Use - Night Rain Listening to Wind](https://www.yeyulingfeng.com/83723.html)
 3. [About the Differences and Compatibility of Mobile WebView Kernels, Default Browsers, and Rendering Layer Browsers of Various Mini Programs - DCloud Community](https://ask.dcloud.net.cn/m/article/1318)
@@ -72,6 +76,7 @@ Note: "Phased out" refers to at least one of the following: "kernel version has 
 9. [Using Honor Phones, Say Goodbye to Lightweight Browsers #android webview #hihonor webview - Honor Club](https://club.honor.com/cn/thread-29317614-1-1.html)
 
 ### Recommended GitHub Repositories
+
 1. [JonaNorman/WebViewUpgrade | Android WebView Kernel Upgrade Without Installation](https://github.com/JonaNorman/WebViewUpgrade)
 2. [JonaNorman/WebViewPackage | Collecting and Archiving Android WebView APKs from Various Manufacturers](https://github.com/JonaNorman/WebViewPackage)
 3. [zoulin3/force_system_webview | Force Android Apps to Use System WebView](https://github.com/zoulin3/force_system_webview)
@@ -80,9 +85,11 @@ Note: "Phased out" refers to at least one of the following: "kernel version has 
 6. [daybreak1929/ViaBrowserCollection | Via Browser Collection](https://github.com/daybreak1929/ViaBrowserCollection)
 
 ### Recommended Gitee Repositories
+
 1. [半梦半醒/Via浏览器收藏合集](https://gitee.com/daybreak166/ViaBrowserCollection)
 
 ### Public Data Sources (But Not the Only Sources of This Project's Data)
+
 1. [Chromium Dash - Schedule](https://chromiumdash.appspot.com/schedule)
 2. [Microsoft Edge release notes for Stable Channel | Microsoft Learn](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
 3. [Firefox Release Calendar](https://whattrainisitnow.com/calendar/)
