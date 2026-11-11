@@ -89,7 +89,7 @@
 [Telegram](https://t.me/kkdx10)）
 
 > [!IMPORTANT]
-> 注意：一定要先安装Huawei Trichrome Library
+> 注意：安装新版Huawei Webview apk之前，一定要先安装Huawei Trichrome Library apk！
 
 > [!IMPORTANT]
 > 需要留意你的手机有没有多余的 Huawei Trichrome Library
