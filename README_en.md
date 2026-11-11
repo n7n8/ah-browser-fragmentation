@@ -5,7 +5,7 @@
 
 [中文](./README.md)
 
-### [How to Update the Browser Kernel on Android (Mainland China)](./Posts/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86Android%E7%94%A8%E6%88%B7%E5%A6%82%E4%BD%95%E6%9B%B4%E6%96%B0%E6%B5%8F%E8%A7%88%E5%99%A8%E5%86%85%E6%A0%B8.md)
+### [How to Update the Browser Kernel on Android (Mainland China only)](./Posts/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86Android%E7%94%A8%E6%88%B7%E5%A6%82%E4%BD%95%E6%9B%B4%E6%96%B0%E6%B5%8F%E8%A7%88%E5%99%A8%E5%86%85%E6%A0%B8.md)
 
 ### About This Record
 
