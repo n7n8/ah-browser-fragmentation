@@ -92,6 +92,7 @@ tree/main/
 ### Gitee仓库推荐
 
 1. [半梦半醒/Via浏览器收藏合集](https://gitee.com/daybreak166/ViaBrowserCollection)
+2. [Ken/Android-WebView](https://gitee.com/akenclub/android-web-view)
 
 ### 公开数据来源（但不是本项目数据唯一来源）
 
