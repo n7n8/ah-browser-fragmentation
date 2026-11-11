@@ -92,6 +92,12 @@
 > 注意：一定要先安装Huawei Trichrome Library
 
 > [!IMPORTANT]
+> 需要留意你的手机有没有多余的 Huawei Trichrome Library
+> 
+> 获得 Huawei Webview 的版本
+> ```
+> adb shell pm dump com.huawei.webview | grep version
+> ```
 > 获得 TrichromeLibrary 的版本
 > ```
 > adb shell dumpsys package|grep name:com
