@@ -45,7 +45,7 @@
 > 
 > <!-- 注意：请不要用APKPure下载非系统应用，尤其是Telegram -->
 > 
-> 对于（支持Google Webview的）vivo、OPPO、荣耀、三星、联想、中兴 手机用户，直接安装下载好的Android System Webview apk即可
+> 对于（支持Google Webview的）vivo（含 iQOO）、OPPO（含 一加、Realme）、荣耀、三星、联想（含 摩托罗拉）、中兴（含 红魔、努比亚）手机用户，直接安装下载好的Android System Webview apk即可
 
 3. 小米特殊处理
 
