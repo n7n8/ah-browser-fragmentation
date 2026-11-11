@@ -88,6 +88,7 @@ Note: "Phased out" refers to at least one of the following: "kernel version has 
 4. [entr0pia/trichromelibrary-squoosh | Remove Outdated TrichromeLibrary](https://github.com/entr0pia/trichromelibrary-squoosh)
 5. [dust-yu/sample_webview_android](https://github.com/dust-yu/sample_webview_android)
 6. [daybreak1929/ViaBrowserCollection | Via Browser Collection](https://github.com/daybreak1929/ViaBrowserCollection)
+7. [tuyafeng/Via | Via Browser](https://github.com/tuyafeng/Via)
 
 ### Recommended Gitee Repositories
 
