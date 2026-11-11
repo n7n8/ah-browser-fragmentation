@@ -126,6 +126,10 @@
 
 [APKMirror下载链接](https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-system-webview/)
 
+### AOSP Webview（部分）
+
+LineageOS Webview：[APKMirror](https://www.apkmirror.com/apk/lineageos/android-system-webview-2/)
+
 ---
 ### 💡后话
 
