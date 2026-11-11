@@ -95,16 +95,25 @@
 > 需要留意你的手机有没有多余的 Huawei Trichrome Library
 > 
 > 获得 Huawei Webview 的版本
+>
+> （记下看到的 versionCode ①）
+> 
 > ```
 > adb shell pm dump com.huawei.webview | grep version
 > ```
+> 
 > 获得 TrichromeLibrary 的版本
+>
+> （记下看到的 versionCode ②）
+> 
 > ```
 > adb shell dumpsys package|grep name:com
 > ```
-> 卸载多余的 Huawei Trichrome Library
+> 
+> 卸载多余的 Huawei Trichrome Library（留意 versionCode，只需要卸载②出现的，①没有出现的versionCode相关的！Trichrome Library）
+> 
 > ```
-> pm uninstall com.huawei.triwebviewlib_$version
+> pm uninstall com.huawei.triwebviewlib_$versionCode
 > ```
 
 ### Hihonor Webview
