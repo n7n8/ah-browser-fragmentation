@@ -31,7 +31,8 @@ tree/main/
 ├── Media/
 ├── Archive/
 ├── Posts/
-└── TL;DR/
+├── TL;DR/
+└── data.json
 ```
 *   **`2026/`**:
     *   Contains browser kernel version data for this year.
