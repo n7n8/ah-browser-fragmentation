@@ -52,7 +52,7 @@ ICP备案-相对来说简单，但通常要花 2~3 周。
 
 由于没有预装Chrome，且没有占据绝对优势的国产定制浏览器，各大中国大陆Android厂商都要研制自己的浏览器；由于没有Google Play提供的系统Webview统一更新机制（从Android 5.0开始），系统Webview碎片化严重。
 
-这对中国大陆Android Web生态存在严重负面影响。由于系统Webview碎片化严重，各大头部厂商纷纷定制自己的浏览器内核（腾讯X5、微信XWeb、阿里U4、支付宝AlipayWebview、抖音TTWebview、小红书R1、拼多多Meco、快手KwWebview），代价是手机里同时存在多个互不共享的浏览器内核，每个都占用存储空间；Web环境碎片化严重，系统性提高了app的H5兼容性成本、移动网页兼容性成本。
+这对中国大陆Android Web生态存在严重负面影响。由于系统Webview碎片化严重，各大头部厂商纷纷定制自己的浏览器内核（腾讯X5、微信XWeb、阿里U4、支付宝AlipayWebview、抖音TTWebview、小红书R1、拼多多Meco、快手KsWebview），代价是手机里同时存在多个互不共享的浏览器内核，每个都占用存储空间；Web环境碎片化严重，系统性提高了app的H5兼容性成本、移动网页兼容性成本。
 
 ### 结论
 
