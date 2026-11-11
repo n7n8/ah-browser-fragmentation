@@ -91,6 +91,16 @@
 > [!IMPORTANT]
 > 注意：一定要先安装Huawei Trichrome Library
 
+> [!IMPORTANT]
+> 获得 TrichromeLibrary 的版本
+> ```
+> adb shell dumpsys package|grep name:com
+> ```
+> 卸载多余的 Huawei Trichrome Library
+> ```
+> pm uninstall com.huawei.triwebviewlib_$version
+> ```
+
 ### Hihonor Webview
 
 内核版本：Chromium 116 [GitHub Release下载链接](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Honor)
