@@ -53,10 +53,14 @@ tree/main/
 ### Current Browser Compatibility Baseline for Android in Mainland China (For Reference Only)
 
 Note: "Phased out" refers to at least one of the following: "kernel version has been replaced by a higher version", "new pre-installation has been stopped", "software has been removed from shelves/distribution stopped".
+
 1. Chromium 97 (becoming obsolete)
+
 - [x] Baidu App (phased out: September 2026; updatable)
 - [x] Honor shell browser (phased out: January 2026; for old Honor phones, it is almost "no update capability"—it's not that you cannot install com.honor.browser, but most users won't specifically install an additional browser)
+
 2. Chromium 114
+
 - [x] HarmonyOS 4 Huawei Browser (phased out: March 2026, Enjoy 90 series release; actually almost unupdatable)
 - [x] HarmonyOS 4 Huawei Webview (phased out: March 2026, Enjoy 90 series release; theoretically there is version 132 Huawei Webview, but actually almost unupdatable)
 - [ ] OPPO Browser (Chromium 115) (not phased out; updatable)
