@@ -9,6 +9,7 @@
 
 ### About This Record
 International statistics agencies (such as StatCounter) have obvious deviations in their statistics of the Android browser market in mainland China, often [showing Chrome occupying the majority share](https://gs.statcounter.com/browser-market-share/mobile/china), which is completely inconsistent with the actual situation of mainland Chinese users.
+
 More importantly, these statistics almost completely ignore the fragmentation of browser kernel versions. This repository focuses on the Android & HarmonyOS ecosystem, recording the actual Chromium/Firefox versions of various OEM browsers, third-party browsers in mainland China, international third-party browsers, and embedded kernels in commonly used apps.
 
 <p align="center">
