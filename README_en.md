@@ -92,6 +92,7 @@ Note: "Phased out" refers to at least one of the following: "kernel version has 
 ### Recommended Gitee Repositories
 
 1. [半梦半醒/Via浏览器收藏合集](https://gitee.com/daybreak166/ViaBrowserCollection)
+2. [Ken/Android-WebView](https://gitee.com/akenclub/android-web-view)
 
 ### Public Data Sources (But Not the Only Sources of This Project's Data)
 
