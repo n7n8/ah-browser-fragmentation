@@ -27,7 +27,8 @@
 </sup></p>
 
 ### 📂 目录结构与设计说明
-```ah-browser-fragmentation
+
+```
 tree/main/
 ├── 2026/
 ├── Media/
@@ -68,6 +69,7 @@ tree/main/
 - [ ] Hihonor Webview（Chromium 116）（未淘汰，仍在新的荣耀低端机型存在；没有更新能力）
 
 ### 特别感谢（以下网页已备份至[/Archive](./Archive)文件夹）
+
 1. [🗂 前端版本兼容问题的探索 - 卤代烃实验室](https://supercodepower.com/fontend-target/)
 2. [💖【投票+测评】你平时用的浏览器内核版本 - 夜雨聆风](https://www.yeyulingfeng.com/83723.html)
 3. [关于手机webview内核、默认浏览器、各家小程序的渲染层浏览器的区别和兼容性 - DCloud社区](https://ask.dcloud.net.cn/m/article/1318)
@@ -79,6 +81,7 @@ tree/main/
 9. [用荣耀手机，告别轻量级浏览器 #android webview #hihonor webview - 荣耀俱乐部](https://club.honor.com/cn/thread-29317614-1-1.html)
 
 ### GitHub仓库推荐
+
 1. [JonaNorman/WebViewUpgrade | Android免安装升级WebView内核](https://github.com/JonaNorman/WebViewUpgrade)
 2. [JonaNorman/WebViewPackage | 收集和归档各厂商 Android WebView APK](https://github.com/JonaNorman/WebViewPackage)
 3. [zoulin3/force_system_webview | 强制 Android 应用使用系统 WebView](https://github.com/zoulin3/force_system_webview)
@@ -87,9 +90,11 @@ tree/main/
 6. [daybreak1929/ViaBrowserCollection | Via浏览器收藏合集](https://github.com/daybreak1929/ViaBrowserCollection)
 
 ### Gitee仓库推荐
+
 1. [半梦半醒/Via浏览器收藏合集](https://gitee.com/daybreak166/ViaBrowserCollection)
 
 ### 公开数据来源（但不是本项目数据唯一来源）
+
 1. [Chromium Dash - Schedule](https://chromiumdash.appspot.com/schedule)
 2. [Microsoft Edge release notes for Stable Channel | Microsoft Learn](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
 3. [Firefox Release Calendar](https://whattrainisitnow.com/calendar/)
