@@ -98,3 +98,22 @@
 ### Amazon Webview
 
 [APKMirror下载链接](https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-system-webview/)
+
+---
+### 后话
+
+<details>
+   <summary>
+      详细展开
+   </summary>
+   假设某台手机只能升级到Android 13。
+   
+   如果只随OTA升级系统Webview：Chromium停在101~103左右；
+
+   如果随应用商店（无论是不是Google Play）升级系统Webview：现在已经可以升级至Chromium 156左右。
+   
+   浏览器内核版本已经相差几年。
+
+   因此，可以见到运行安卓11-13的旧手机，用865处理器，现在也够用，但是预装的webview可能还是两位数的。这就是我做这个教程的意义。
+
+</details>
