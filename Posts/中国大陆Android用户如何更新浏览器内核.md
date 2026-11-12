@@ -50,7 +50,7 @@
 
 3. 小米特殊处理
 
-> 如果你是**不方便使用Google Play**的小米手机用户，建议使用PC adb安装或Shizuku+InstallerX Revived的组合（因为不能直接安装系统apk）
+> 如果你是 **不方便使用Google Play** 的小米手机用户，建议使用 PC adb 安装或 Shizuku+InstallerX Revived 的组合（因为不能直接安装系统 apk）
 > 
 > 注意：需要确保开启开发者选项、USB调试、USB调试（安全设置）、USB安装
 > 
