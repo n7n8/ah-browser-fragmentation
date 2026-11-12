@@ -120,6 +120,8 @@
 > 
 > versionCode 为 25011、25023 的`com.huawei.triwebviewlib`由于 **共享库版本号** 完全相同（170004310），导致多个 Chromium 132 内核的 Huawei Trichrome Library 无法共存！
 > 
+> ---
+> 
 > 需要留意你的手机有没有多余的 Huawei Trichrome Library
 > 
 > 获得 Huawei Webview 的版本
@@ -130,6 +132,8 @@
 > adb shell pm dump com.huawei.webview | grep version
 > ```
 > 
+> ---
+> 
 > 获得 TrichromeLibrary 的版本
 >
 > （记下看到的 共享库版本号 ②）
@@ -137,6 +141,8 @@
 > ```
 > adb shell dumpsys package | grep name:com
 > ```
+> 
+> ---
 > 
 > 卸载多余的 Huawei Trichrome Library
 >
