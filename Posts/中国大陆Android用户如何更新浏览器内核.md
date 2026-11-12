@@ -81,7 +81,17 @@
 
 ### Google Webview（Android 5-9）
 
-[GitHub Release下载链接](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Google)
+内核版本：
+
+Android 5→Chromium 95
+
+Android 6→Chromium 106
+
+Android 7→Chromium 119
+
+Android 8/9→Chromium 138
+
+下载链接：[GitHub](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Google) [123网盘](https://1812863854.share.123pan.cn/123pan/OuOKVv-lbw63?notoken=1)
 
 ### Huawei Webview
 
