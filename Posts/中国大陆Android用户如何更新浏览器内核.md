@@ -88,8 +88,10 @@
 > [!NOTE]
 > 适用范围：不内置 GMS 框架、搭载 EMUI 或 HarmonyOS 2/3/4 的华为手机
 
-132版本的Huawei Webview（[GitHub](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Huawei(EMUI))
-[Telegram](https://t.me/kkdx10)）
+内核版本：Chromium 132
+
+下载链接：[GitHub](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Huawei(EMUI))
+[Telegram](https://t.me/kkdx10)
 
 > [!IMPORTANT]
 > 注意：安装新版 Huawei Webview apk 之前，建议先安装新版 Huawei Trichrome Library apk！
@@ -129,14 +131,16 @@
 
 内核版本：Chromium 114
 
-[APKMirror](https://www.apkmirror.com/apk/huawei/huawei-webview-2/huawei-webview-114-0-4-327-release/) [apkz](https://www.apkz.com/app/com.huawei.webview)
+下载链接：[APKMirror](https://www.apkmirror.com/apk/huawei/huawei-webview-2/huawei-webview-114-0-4-327-release/) [apkz](https://www.apkz.com/app/com.huawei.webview)
 
 ### Hihonor Webview
 
 > [!NOTE]
 > 适用范围：不内置 GMS 框架的（非华为子品牌）荣耀手机
 
-内核版本：Chromium 116 [GitHub Release下载链接](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Honor)
+内核版本：Chromium 116
+
+下载链接：[GitHub Release](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Honor)
 
 ### Amazon Webview
 
