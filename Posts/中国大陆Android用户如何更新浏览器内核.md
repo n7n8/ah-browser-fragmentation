@@ -38,6 +38,10 @@
 
 2. apk直接安装
 
+> [!NOTE]
+> 
+> 对于（支持Google Webview的）vivo（含 iQOO）、OPPO（含 一加、Realme）、荣耀、三星、联想（含 摩托罗拉）、中兴（含 红魔、努比亚）手机用户，直接安装下载好的Android System Webview apk即可
+
 > 新版 Google Webview 的 apk 下载链接：
 > 
 > [APKMirror](https://www.apkmirror.com/apk/google-inc/android-system-webview) [Uptodown](https://android-system-webview.en.uptodown.com/android) [APKPure](https://apkpure.com/android-system-webview-app/com.google.android.webview/amp)
@@ -45,10 +49,6 @@
 > [apkz](https://www.apkz.com/app/com.google.android.webview/en.html) [当快软件园](https://www.downkuai.com/android/167450.html)
 > 
 > <!-- 注意：请不要用APKPure下载非系统应用，尤其是Telegram -->
-
-> [!NOTE]
-> 
-> 对于（支持Google Webview的）vivo（含 iQOO）、OPPO（含 一加、Realme）、荣耀、三星、联想（含 摩托罗拉）、中兴（含 红魔、努比亚）手机用户，直接安装下载好的Android System Webview apk即可
 
 3. 小米特殊处理
 
