@@ -125,6 +125,10 @@
 > adb shell pm uninstall com.huawei.triwebviewlib_170004310
 > ```
 
+### Huawei Webview（Android 7-9）
+
+内核版本：Chromium 114 [APKMirror下载链接](https://www.apkmirror.com/apk/huawei/huawei-webview-2/huawei-webview-114-0-4-327-release/)
+
 ### Hihonor Webview
 
 > [!NOTE]
