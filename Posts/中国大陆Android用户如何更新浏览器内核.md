@@ -89,7 +89,7 @@
 [Telegram](https://t.me/kkdx10)）
 
 > [!IMPORTANT]
-> 注意：安装新版Huawei Webview apk之前，一定要先安装Huawei Trichrome Library apk！
+> 注意：安装新版 Huawei Webview apk 之前，建议先安装新版 Huawei Trichrome Library apk！
 
 > [!IMPORTANT]
 > versionCode 为 25011、25023 的`com.huawei.triwebviewlib`由于 **共享库版本号** 完全相同（170004310），导致多个 Chromium 132 内核的 Huawei Trichrome Library 无法共存！
