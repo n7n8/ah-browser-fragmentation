@@ -40,7 +40,7 @@
 
 > [!NOTE]
 > 
-> 对于（支持 Google Webview 的）vivo（含 iQOO）、OPPO（含 一加、Realme）、荣耀、三星、联想（含 摩托罗拉）、中兴（含 红魔、努比亚）手机用户，直接安装下载好的Android System Webview apk即可
+> 对于（支持 Google Webview 的）vivo（含 iQOO）、OPPO（含 一加、Realme）、荣耀、三星、联想（含 摩托罗拉）、中兴（含 红魔、努比亚）手机用户，直接安装下载好的 Android System Webview apk 即可
 
 > 新版 Google Webview 的 apk 下载链接：
 > 
