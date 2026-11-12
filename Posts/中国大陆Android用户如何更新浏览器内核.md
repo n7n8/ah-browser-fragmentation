@@ -32,12 +32,6 @@
 | `com.android.webview` | AOSP Webview |
 | `com.hihonor.webview` | Hihonor Webview |
 
-- `com.google.android.webview`→Google Webview
-- `com.huawei.webview`→Huawei Webview
-- `com.amazon.webview`→Amazon Webview
-- `com.android.webview`→AOSP Webview
-- `com.hihonor.webview`→Hihonor Webview
-
 ### Google Webview（Android 10+）
 
 优先级：Google Play → apk直接安装 → 小米特殊处理
