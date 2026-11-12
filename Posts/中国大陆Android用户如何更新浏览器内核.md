@@ -62,7 +62,7 @@
 > 
 > ① PC adb 安装
 >
-> （adb.exe 包含在 Android SDK Platform-Tools 软件包中）
+> （`adb` 包含在 Android SDK Platform-Tools 软件包中）
 >
 > Android SDK Platform-Tools 下载链接：
 >
