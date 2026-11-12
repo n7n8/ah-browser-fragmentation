@@ -34,7 +34,7 @@
 
 优先级：Google Play → apk直接安装 → 小米特殊处理
 
-1. [Google Play](https://play.google.com/store/apps/details/Android+System+WebView?id=com.google.android.webview)
+1. [Google Play](https://play.google.com/store/apps/details?id=com.google.android.webview)
 
 2. apk直接安装
 
