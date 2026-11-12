@@ -90,7 +90,7 @@
 | Android 7 | Chromium 119 |
 | Android 8/9 | Chromium 138 |
 
-下载链接：[GitHub](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Google) [123网盘](https://1812863854.share.123pan.cn/123pan/OuOKVv-lbw63?notoken=1)
+下载链接：[GitHub](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Google) [123网盘](https://www.123pan.com/s/OuOKVv-lbw63.html)
 
 ### Huawei Webview
 
@@ -140,7 +140,7 @@
 
 内核版本：Chromium 114
 
-下载链接：[APKMirror](https://www.apkmirror.com/apk/huawei/huawei-webview-2/huawei-webview-114-0-4-327-release/) [apkz](https://www.apkz.com/app/com.huawei.webview)
+下载链接：[APKMirror](https://www.apkmirror.com/apk/huawei/huawei-webview-2/huawei-webview-114-0-4-327-release/) [apkz](https://www.apkz.com/app/com.huawei.webview) [123网盘](https://www.123pan.com/s/OuOKVv-Sbw63.html)
 
 ### Hihonor Webview
 
