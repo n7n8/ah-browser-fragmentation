@@ -60,7 +60,7 @@
 >
 > （adb 包含在 Android SDK Platform-Tools 软件包中）
 >
-> Android SDK Platform-Tools下载链接：
+> Android SDK Platform-Tools 下载链接：
 >
 > [全球站](https://developer.android.com/tools/releases/platform-tools#downloads) [CN站](https://developer.android.google.cn/tools/releases/platform-tools#downloads)
 >
@@ -72,11 +72,11 @@
 > ---
 > ② Shizuku + InstallerX Revived 组合
 > 
-> <img src="https://github.com/rushiranpise/Shizuku-Next/blob/master/docs/logo.png" alt="Shizuku-Next" width="16" /> Shizuku（rushiranpise/Shizuku-Next）：
+> <img src="https://github.com/rushiranpise/Shizuku-Next/blob/master/docs/logo.png" alt="Shizuku-Next" width="16" /> Shizuku（rushiranpise/Shizuku-Next）下载链接：
 > 
 > [GitHub下载链接](https://github.com/rushiranpise/Shizuku-Next) [使用教程](https://shizuku.rikka.app/zh-hans/guide/setup)
 > 
-> <img src="https://wxxsfxyzm.github.io/InstallerX-Revived-Website/ic_launcher.svg" alt="InstallerX Revived" width="16" /> InstallerX Revived下载链接：
+> <img src="https://wxxsfxyzm.github.io/InstallerX-Revived-Website/ic_launcher.svg" alt="InstallerX Revived" width="16" /> InstallerX Revived 下载链接：
 > 
 > [GitHub](https://github.com/wxxsfxyzm/InstallerX-Revived) [Telegram](https://t.me/installerx_revived)
 > 
