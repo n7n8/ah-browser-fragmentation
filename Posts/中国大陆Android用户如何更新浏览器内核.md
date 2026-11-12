@@ -54,6 +54,8 @@
 > 
 > 注意：需要确保开启开发者选项、USB调试、USB调试（安全设置）、USB安装
 > 
+> ① PC adb 安装
+>
 > （adb 包含在 Android SDK Platform-Tools 软件包中）
 >
 > Android SDK Platform-Tools下载链接：
@@ -66,18 +68,17 @@
 > adb install <APK文件路径>
 > ```
 > 
-> >
-> > 如果使用Shizuku+InstallerX Revived的组合：
-> >
-> > <img src="https://github.com/rushiranpise/Shizuku-Next/blob/master/docs/logo.png" alt="Shizuku-Next" width="16" /> Shizuku（rushiranpise/Shizuku-Next）：
-> >
-> > [GitHub下载链接](https://github.com/rushiranpise/Shizuku-Next) [使用教程](https://shizuku.rikka.app/zh-hans/guide/setup)
-> >
-> > <img src="https://wxxsfxyzm.github.io/InstallerX-Revived-Website/ic_launcher.svg" alt="InstallerX Revived" width="16" /> InstallerX Revived下载链接：
-> >
-> > [GitHub](https://github.com/wxxsfxyzm/InstallerX-Revived) [Telegram](https://t.me/installerx_revived)
-> >
-> > 对于小米手机用户，InstallerX Revived的Shizuku权限设置好后，建议在文件管理app中，长按apk文件，点击“分享-InstallerX Revived”进行安装
+> ② Shizuku+InstallerX Revived的组合
+> 
+> <img src="https://github.com/rushiranpise/Shizuku-Next/blob/master/docs/logo.png" alt="Shizuku-Next" width="16" /> Shizuku（rushiranpise/Shizuku-Next）：
+> 
+> [GitHub下载链接](https://github.com/rushiranpise/Shizuku-Next) [使用教程](https://shizuku.rikka.app/zh-hans/guide/setup)
+> 
+> <img src="https://wxxsfxyzm.github.io/InstallerX-Revived-Website/ic_launcher.svg" alt="InstallerX Revived" width="16" /> InstallerX Revived下载链接：
+> 
+> [GitHub](https://github.com/wxxsfxyzm/InstallerX-Revived) [Telegram](https://t.me/installerx_revived)
+> 
+> 对于小米手机用户，InstallerX Revived的Shizuku权限设置好后，建议在文件管理app中，长按apk文件，点击“分享-InstallerX Revived”进行安装
 
 ### Google Webview（Android 5-9）
 
