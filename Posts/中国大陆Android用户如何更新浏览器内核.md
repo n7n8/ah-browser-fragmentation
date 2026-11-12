@@ -68,7 +68,7 @@
 >
 > [全球站](https://developer.android.com/tools/releases/platform-tools#downloads) [CN站](https://developer.android.google.cn/tools/releases/platform-tools#downloads)
 >
-> adb安装命令（Windows 命令行可能需要加上`.\`前缀）：
+> adb安装命令（可能需要加上`./`前缀）：
 > 
 > ```
 > adb install <APK文件路径>
