@@ -52,7 +52,7 @@
 
 > 如果你是 **不方便使用Google Play** 的小米手机用户，建议使用 PC adb 安装或 Shizuku + InstallerX Revived 的组合（因为不能直接安装系统 apk）
 > 
-> > ⚠️注意：
+> > ⚠️注意
 > > 
 > > 需要开启：开发者选项、USB调试、USB调试（安全设置）、USB安装
 > 
