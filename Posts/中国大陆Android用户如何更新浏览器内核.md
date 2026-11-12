@@ -24,6 +24,14 @@
 
 2. 安装[LibChecker](https://github.com/LibChecker/LibChecker)，确保打开“显示系统应用”，搜索“Webview”。在搜索到的app中对照app包名：
 
+| 包名 | 对应 Webview |
+| --- | --- |
+| `com.google.android.webview` | Google Webview |
+| `com.huawei.webview` | Huawei Webview |
+| `com.amazon.webview` | Amazon Webview |
+| `com.android.webview` | AOSP Webview |
+| `com.hihonor.webview` | Hihonor Webview |
+
 - `com.google.android.webview`→Google Webview
 - `com.huawei.webview`→Huawei Webview
 - `com.amazon.webview`→Amazon Webview
