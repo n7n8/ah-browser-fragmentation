@@ -90,7 +90,7 @@
 
 ### Google Webview（Android 5-9）
 
-内核版本：
+浏览器内核版本：
 
 | Android | Webview |
 | --- | --- |
@@ -107,7 +107,7 @@
 > 
 > 适用范围：不内置 GMS 框架、搭载 EMUI 或 HarmonyOS 2/3/4 的华为手机
 
-内核版本：Chromium 132
+浏览器内核版本：Chromium 132
 
 下载链接：[GitHub](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Huawei(EMUI))
 [Telegram](https://t.me/kkdx10)
@@ -156,7 +156,7 @@
 
 ### Huawei Webview（Android 7-9）
 
-内核版本：Chromium 114
+浏览器内核版本：Chromium 114
 
 下载链接：[APKMirror](https://www.apkmirror.com/apk/huawei/huawei-webview-2/huawei-webview-114-0-4-327-release/) [apkz](https://www.apkz.com/app/com.huawei.webview) [123网盘](https://www.123pan.com/s/OuOKVv-Sbw63.html)
 
@@ -166,7 +166,7 @@
 > 
 > 适用范围：不内置 GMS 框架的（非华为子品牌）荣耀手机
 
-内核版本：Chromium 116
+浏览器内核版本：Chromium 116
 
 下载链接：[GitHub](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Honor)
 
