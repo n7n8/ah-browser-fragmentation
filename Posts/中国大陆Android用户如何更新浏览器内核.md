@@ -58,13 +58,13 @@
 > 
 > ① PC adb 安装
 >
-> （adb 包含在 Android SDK Platform-Tools 软件包中）
+> （adb.exe 包含在 Android SDK Platform-Tools 软件包中）
 >
 > Android SDK Platform-Tools 下载链接：
 >
 > [全球站](https://developer.android.com/tools/releases/platform-tools#downloads) [CN站](https://developer.android.google.cn/tools/releases/platform-tools#downloads)
 >
-> adb安装命令：
+> adb安装命令（Windows 命令行可能需要加上`.\`前缀）：
 > 
 > ```
 > adb install <APK文件路径>
