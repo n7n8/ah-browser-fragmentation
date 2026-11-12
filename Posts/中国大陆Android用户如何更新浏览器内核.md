@@ -126,7 +126,7 @@
 > （记下看到的 共享库版本号 ②）
 > 
 > ```
-> adb shell dumpsys package|grep name:com
+> adb shell dumpsys package | grep name:com
 > ```
 > 
 > 卸载多余的 Huawei Trichrome Library
