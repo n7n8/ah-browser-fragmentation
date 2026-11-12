@@ -98,6 +98,7 @@
 ### Huawei Webview
 
 > [!NOTE]
+> 
 > 适用范围：不内置 GMS 框架、搭载 EMUI 或 HarmonyOS 2/3/4 的华为手机
 
 内核版本：Chromium 132
@@ -106,9 +107,11 @@
 [Telegram](https://t.me/kkdx10)
 
 > [!IMPORTANT]
+> 
 > 注意：安装新版 Huawei Webview apk 之前，建议先安装新版 Huawei Trichrome Library apk！
 
 > [!WARNING]
+> 
 > versionCode 为 25011、25023 的`com.huawei.triwebviewlib`由于 **共享库版本号** 完全相同（170004310），导致多个 Chromium 132 内核的 Huawei Trichrome Library 无法共存！
 > 
 > 需要留意你的手机有没有多余的 Huawei Trichrome Library
@@ -148,6 +151,7 @@
 ### Hihonor Webview
 
 > [!NOTE]
+> 
 > 适用范围：不内置 GMS 框架的（非华为子品牌）荣耀手机
 
 内核版本：Chromium 116
