@@ -85,6 +85,9 @@
 
 ### Huawei Webview
 
+> [!NOTE]
+> 适用范围：不内置 GMS 框架、搭载 EMUI、HarmonyOS 2/3/4 的华为手机
+
 132版本的Huawei Webview（[GitHub](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Huawei(EMUI))
 [Telegram](https://t.me/kkdx10)）
 
@@ -123,6 +126,9 @@
 > ```
 
 ### Hihonor Webview
+
+> [!NOTE]
+> 适用范围：不内置 GMS 框架的（非华为子品牌）荣耀手机
 
 内核版本：Chromium 116 [GitHub Release下载链接](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Honor)
 
