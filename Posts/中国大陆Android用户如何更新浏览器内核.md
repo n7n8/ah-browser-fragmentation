@@ -140,11 +140,11 @@
 
 内核版本：Chromium 116
 
-下载链接：[GitHub Release](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Honor)
+下载链接：[GitHub](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Honor)
 
 ### Amazon Webview
 
-[APKMirror下载链接](https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-system-webview/)
+下载链接：[APKMirror](https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-system-webview/)
 
 ### AOSP Webview（部分）
 
