@@ -22,7 +22,13 @@
 
 1. 打开“开发者选项”，点击“WebView 实现”。如果列表中有“Android System Webview”选项，说明有极大概率支持Google Webview；华为（非鸿蒙5+）手机可能只有“Huawei Webview”；如果只有“Hihonor Webview”，我的教程也救不了你😅
 
-2. 安装[LibChecker](https://github.com/LibChecker/LibChecker)，确保打开“显示系统应用”，搜索“Webview”。在搜索到的app中对照app包名：
+2. 安装[LibChecker](https://github.com/LibChecker/LibChecker)，确保打开“显示系统应用”，搜索“Webview”。在搜索到的 app 中对照以下的 app 包名。
+
+3. 如果用 adb，可以输入以下命令：
+
+```
+adb shell dumpsys webviewupdate
+```
 
 | 包名 | 对应 Webview |
 | --- | --- |
