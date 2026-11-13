@@ -62,8 +62,8 @@ Note: "Phased out" refers to at least one of the following: "kernel version has 
 
 2. Chromium 114
 
-- [x] HarmonyOS 4 Huawei Browser (phased out: March 2026, Enjoy 90 series release; updatable)
-- [x] HarmonyOS 4 Huawei Webview (phased out: March 2026, Enjoy 90 series release; theoretically there is version 132 Huawei Webview, but actually almost unupdatable)
+- [x] HarmonyOS 2/3/4 Huawei Browser (phased out: March 2026, Enjoy 90 series release; updatable)
+- [x] HarmonyOS 2/3/4 Huawei Webview (phased out: March 2026, Enjoy 90 series release; Partially updatable)
 - [ ] OPPO Browser (Chromium 115) (not phased out; updatable)
 - [x] Honor Browser (Chromium 116) (phased out: October 2026; updatable)
 - [ ] Hihonor Webview (Chromium 116) (not phased out, still exists on new Honor low-end models; no update capability)
