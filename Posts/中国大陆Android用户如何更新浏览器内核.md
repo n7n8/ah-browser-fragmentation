@@ -24,7 +24,7 @@
 
 2. 安装[LibChecker](https://github.com/LibChecker/LibChecker)，确保打开“显示系统应用”，搜索“Webview”。在搜索到的 app 中对照以下的 app 包名。
 
-3. 如果用 adb，可以输入以下命令：
+3. 如果用 adb，可以输入以下命令，获取当前系统 Webview 信息：
 
 ```
 adb shell dumpsys webviewupdate
