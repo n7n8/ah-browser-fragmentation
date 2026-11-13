@@ -166,8 +166,6 @@ adb shell dumpsys webviewupdate
 
 浏览器内核版本：Chromium 114
 
-<a href="https://appgallery.huawei.com/details?id=com.huawei.webview">华为应用商店</a>
-
 下载链接：[APKMirror](https://www.apkmirror.com/apk/huawei/huawei-webview-2/huawei-webview-114-0-4-327-release/) [apkz](https://www.apkz.com/app/com.huawei.webview) [123网盘](https://www.123pan.com/s/OuOKVv-Sbw63.html)
 
 ### Hihonor Webview
