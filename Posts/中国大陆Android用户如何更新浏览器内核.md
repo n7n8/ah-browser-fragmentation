@@ -115,6 +115,10 @@ adb shell dumpsys webviewupdate
 > 
 > 适用范围：不内置 GMS 框架、搭载 EMUI 或 HarmonyOS 2/3/4 的华为手机
 
+> [!NOTE]
+> 
+> 华为应用商店可能会自动更新 Huawei Webview 至 132 版本，如果安装的是 132 版本，就不用操作
+
 浏览器内核版本：Chromium 132
 
 下载链接：[GitHub](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Huawei(EMUI))
