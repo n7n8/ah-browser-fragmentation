@@ -270,7 +270,7 @@
       {"name": "Yandex", "category": "国际浏览器", "dynamic-loading": false, "dynamic-name": "", "kernel": "Chromium", "version": 150},
       {"name": "Firefox", "category": "国际浏览器", "dynamic-loading": false, "dynamic-name": "", "kernel": "Gecko", "version": 158}
     ]
-  }
+  },
   {
     "date": "2026-11-01",
     "browsers": [
