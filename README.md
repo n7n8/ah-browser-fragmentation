@@ -79,6 +79,7 @@ tree/main/
 7. [【折腾】魔百盒 CM311-1A 折腾记，成功运行“WebView 电视”，流畅看直播 - 网页电视 - 微信公众号](https://mp.weixin.qq.com/s?__biz=MzkyNTg3NTIyNw==&mid=2247484014&idx=1&sn=8e876c72ca36c4e028405d9ccd7fa221)
 8. [经过研究，安卓翻身论破产 - 酷安](https://www.coolapk.com/feed/67764470)
 9. [用荣耀手机，告别轻量级浏览器 #android webview #hihonor webview - 荣耀俱乐部](https://club.honor.com/cn/thread-29317614-1-1.html)
+10. [浏览器内核版本碎片化才是信创的真难题 - Community - Deepin Technology](https://bbs.deepin.org.cn/phone/en/post/302048)
 
 ### GitHub仓库推荐
 
