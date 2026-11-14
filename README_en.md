@@ -79,6 +79,7 @@ Note: "Phased out" refers to at least one of the following: "kernel version has 
 7. [【Tinkering】Magic Box CM311-1A Tinkering Notes, Successfully Running "WebView TV", Smooth Live Streaming - Web TV - WeChat Official Account](https://mp.weixin.qq.com/s?__biz=MzkyNTg3NTIyNw==&mid=2247484014&idx=1&sn=8e876c72ca36c4e028405d9ccd7fa221)
 8. [After Research, the Android Turnaround Theory Goes Bankrupt - Coolapk](https://www.coolapk.com/feed/67764470)
 9. [Using Honor Phones, Say Goodbye to Lightweight Browsers #android webview #hihonor webview - Honor Club](https://club.honor.com/cn/thread-29317614-1-1.html)
+10. [The fragmentation of browser engine versions is the true challenge for the "Xinchuang" (IT innovation/localization) initiative - Community - Deepin Technology](https://bbs.deepin.org.cn/phone/en/post/302048)
 
 ### Recommended GitHub Repositories
 
