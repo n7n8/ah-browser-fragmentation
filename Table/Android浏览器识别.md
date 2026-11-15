@@ -8,3 +8,4 @@
 | 荣耀（百度） | com.hihonor.baidu.browser | bdhonorbrowser/ |
 | 荣耀 | com.honor.browser | HonorBrowser/ |
 | 魅族 | com.android.browser | MZBrowser/ |
+| 联想 | com.zui.browser | MobileLenovoBrowser/ |
