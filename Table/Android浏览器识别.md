@@ -11,4 +11,5 @@
 | 魅族 | com.android.browser | MZBrowser/ |
 | 联想 | com.zui.browser | MobileLenovoBrowser/ |
 | UC | com.UCMobile | UCBrowser/ |
+| 夸克 | com.quark.browser | Quark/ |
 | QQ浏览器 | com.tencent.mtt | MQQBrowser/ |
