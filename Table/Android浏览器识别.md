@@ -1,7 +1,10 @@
 | 浏览器 | 包名 | UA特征 |
 | --- | --- | --- |
+| 华为 | com.huawei.browser | HuaweiBrowser/ |
 | vivo | com.vivo.browser | VivoBrowser/ |
 | OPPO | com.heytap.browser | HeyTapBrowser/ |
-| 小米 | com.mi.globalbrowser | XiaoMi/MiuiBrowser/ |
-| 荣耀（百度） |  |  |
+| 小米 | com.android.browser | XiaoMi/MiuiBrowser/ |
+| 小米（海外） | com.mi.globalbrowser | XiaoMi/MiuiBrowser/ |
+| 荣耀（百度） | com.hihonor.baidu.browser | bdhonorbrowser/；T7/ |
 | 荣耀 | com.honor.browser | HonorBrowser/；GMSCore |
+| 魅族 | com.android.browser | MZBrowser/ |
