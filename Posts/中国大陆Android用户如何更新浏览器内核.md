@@ -103,7 +103,7 @@ adb shell dumpsys webviewupdate
 | Android | Webview |
 | --- | --- |
 | 5.0-5.1 (API 21-22) | Chromium 95 |
-| 6 (API 23) | Chromium 106 |
+| 6.0 (API 23) | Chromium 106 |
 | 7.0-7.1 (API 24-25) | Chromium 119 |
 | 8.0-9 (API 26-28) | Chromium 138 |
 
