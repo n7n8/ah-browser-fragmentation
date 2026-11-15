@@ -4,8 +4,8 @@
 
 推荐使用Microsoft Edge，在中国大陆大多数应用商店、[Google Play](https://play.google.com/store/apps/details?id=com.microsoft.emmx)均可下载
 
-额外下载链接：
-[小米应用商店](https://m.app.mi.com/details?id=com.microsoft.emmx)
+下载链接：
+[小米应用商店](https://m.app.mi.com/details?id=com.microsoft.emmx) [豌豆荚](https://m.wandoujia.com/apps/7672441)
 
 ## 系统Webview更新
 
