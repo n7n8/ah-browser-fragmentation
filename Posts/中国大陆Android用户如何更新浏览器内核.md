@@ -102,10 +102,10 @@ adb shell dumpsys webviewupdate
 
 | Android | Webview |
 | --- | --- |
-| Android 5 | Chromium 95 |
-| Android 6 | Chromium 106 |
-| Android 7 | Chromium 119 |
-| Android 8/9 | Chromium 138 |
+| 5.0-5.1 (API 21-22) | Chromium 95 |
+| 6 (API 23) | Chromium 106 |
+| 7.0-7.1 (API 24-25) | Chromium 119 |
+| 8.0-9 (API 26-28) | Chromium 138 |
 
 下载链接：[GitHub](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Google) [123网盘](https://www.123pan.com/s/OuOKVv-lbw63.html)
 
