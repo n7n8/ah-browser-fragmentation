@@ -5,6 +5,6 @@
 | OPPO | com.heytap.browser | HeyTapBrowser/ |
 | 小米 | com.android.browser | XiaoMi/MiuiBrowser/ |
 | 小米（海外） | com.mi.globalbrowser | XiaoMi/MiuiBrowser/ |
-| 荣耀（百度） | com.hihonor.baidu.browser | bdhonorbrowser/；T7/ |
-| 荣耀 | com.honor.browser | HonorBrowser/；GMSCore |
+| 荣耀（百度） | com.hihonor.baidu.browser | bdhonorbrowser/ |
+| 荣耀 | com.honor.browser | HonorBrowser/ |
 | 魅族 | com.android.browser | MZBrowser/ |
