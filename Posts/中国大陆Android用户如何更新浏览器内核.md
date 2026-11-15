@@ -2,7 +2,10 @@
 
 <img src="../Media/EdgeBrowser.avif" alt="Microsoft Edge" width="100">
 
-推荐使用Microsoft Edge，在中国大陆各大应用商店（如[小米应用商店](https://m.app.mi.com/details?id=com.microsoft.emmx)）、[Google Play](https://play.google.com/store/apps/details?id=com.microsoft.emmx)均可下载
+推荐使用Microsoft Edge，在中国大陆大多数应用商店、[Google Play](https://play.google.com/store/apps/details?id=com.microsoft.emmx)均可下载
+
+额外下载链接：
+[小米应用商店](https://m.app.mi.com/details?id=com.microsoft.emmx)
 
 ## 系统Webview更新
 
