@@ -33,6 +33,7 @@ tree/main/
 ├── 2026/
 ├── Media/
 ├── Archive/
+├── Table/
 ├── Posts/
 ├── TL;DR/
 └── data.json
