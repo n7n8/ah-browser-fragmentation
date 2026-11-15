@@ -45,6 +45,8 @@ tree/main/
     *   Used to store image content.
 *   **[Archive/](./Archive/)**:
     *   Archive and backup of the content in ["Special Thanks"](./README_en.md#special-thanks-the-following-webpages-have-been-backed-up-to-the-archive-folder).
+*   **[Table/](./Table/)**：
+    *   Organize structured data regarding browsers.
 *   **[Posts/](./Posts/)**:
     *   Mainly describes the update mechanism of Android browser kernels in mainland China.
 *   **[TL;DR/](./TL;DR/)**:
