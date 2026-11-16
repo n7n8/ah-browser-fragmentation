@@ -193,6 +193,8 @@ adb shell dumpsys webviewupdate
 
 LineageOS Webview 下载链接：[APKMirror](https://www.apkmirror.com/apk/lineageos/android-system-webview-2/)
 
+Root权限升级方式：[TVbox-interface/WebView 手动升级教程.md](https://github.com/dlgt7/TVbox-interface/blob/main/WebView%20%E6%89%8B%E5%8A%A8%E5%8D%87%E7%BA%A7%E6%95%99%E7%A8%8B.md) （适用于部分电视盒子）
+
 ---
 ### 💡后话
 
