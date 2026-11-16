@@ -2,7 +2,7 @@
 
 <img src="../Media/EdgeBrowser.avif" alt="Microsoft Edge" width="100">
 
-推荐使用 Microsoft Edge，在中国大陆大多数 Android 应用商店、[Google Play](https://play.google.com/store/apps/details?id=com.microsoft.emmx) 均可下载
+推荐使用 Microsoft Edge，在中国大陆 Android 应用商店、[Google Play](https://play.google.com/store/apps/details?id=com.microsoft.emmx) 均可下载
 
 下载链接：
 [小米应用商店](https://m.app.mi.com/details?id=com.microsoft.emmx) [豌豆荚](https://m.wandoujia.com/apps/7672441)
