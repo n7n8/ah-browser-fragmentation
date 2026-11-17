@@ -37,15 +37,34 @@ adb shell dumpsys webviewupdate
    系统 Webview - 包名对照表
 </sub></p>
 
-<p align="center">
-| 包名 | 对应 Webview |
-| --- | --- |
-| `com.google.android.webview` | Google Webview |
-| `com.huawei.webview` | Huawei Webview |
-| `com.amazon.webview` | Amazon Webview |
-| `com.android.webview` | AOSP Webview |
-| `com.hihonor.webview` | Hihonor Webview |
-</p>
+<div align="center">
+<table>
+  <tr>
+    <th>包名</th>
+    <th>对应 Webview</th>
+  </tr>
+  <tr>
+    <td>com.google.android.webview</td>
+    <td>Google Webview</td>
+  </tr>
+  <tr>
+    <td>com.huawei.webview</td>
+    <td>Huawei Webview</td>
+  </tr>
+  <tr>
+    <td>com.amazon.webview</td>
+    <td>Amazon Webview</td>
+  </tr>
+  <tr>
+    <td>com.android.webview</td>
+    <td>AOSP Webview</td>
+  </tr>
+  <tr>
+    <td>com.hihonor.webview</td>
+    <td>Hihonor Webview</td>
+  </tr>
+</table>
+</div>
 
 ### Google Webview（Android 10+）
 
