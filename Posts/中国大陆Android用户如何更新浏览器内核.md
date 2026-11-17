@@ -33,6 +33,10 @@
 adb shell dumpsys webviewupdate
 ```
 
+<p align="center">
+   系统 Webview - 包名对照表
+</p>
+
 | 包名 | 对应 Webview |
 | --- | --- |
 | `com.google.android.webview` | Google Webview |
