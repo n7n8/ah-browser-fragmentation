@@ -33,9 +33,9 @@
 adb shell dumpsys webviewupdate
 ```
 
-<p align="center">
+<p align="center"><sub>
    系统 Webview - 包名对照表
-</p>
+</sub></p>
 
 | 包名 | 对应 Webview |
 | --- | --- |
