@@ -44,23 +44,23 @@ adb shell dumpsys webviewupdate
     <th>对应 Webview</th>
   </tr>
   <tr>
-    <td>`com.google.android.webview`</td>
+    <td><code>com.google.android.webview</code></td>
     <td>Google Webview</td>
   </tr>
   <tr>
-    <td>com.huawei.webview</td>
+    <td><code>com.huawei.webview</code></td>
     <td>Huawei Webview</td>
   </tr>
   <tr>
-    <td>com.amazon.webview</td>
+    <td><code>com.amazon.webview</code></td>
     <td>Amazon Webview</td>
   </tr>
   <tr>
-    <td>com.android.webview</td>
+    <td><code>com.android.webview</code></td>
     <td>AOSP Webview</td>
   </tr>
   <tr>
-    <td>com.hihonor.webview</td>
+    <td><code>com.hihonor.webview</code></td>
     <td>Hihonor Webview</td>
   </tr>
 </table>
