@@ -9,11 +9,11 @@
 
 ## 系统Webview更新
 
-<p align="left">
+<p align="center">
    <img src="../Media/Android%20System%20WebView.png" width="50" alt="Android System Webview">
    <img src="../Media/HuaweiWebview.png" width="50" alt="Huawei Webview">
 </p>
-<p align="left"><sup>
+<p align="center"><sup>
    Google Webview | Huawei Webview
 </sup></p>
 
