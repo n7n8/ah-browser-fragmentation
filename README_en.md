@@ -71,7 +71,7 @@ Note: "Phased out" refers to at least one of the following: "kernel version has 
 - [x] Honor Browser (Chromium 116) (phased out: October 2026; updatable)
 - [ ] Hihonor Webview (Chromium 116) (not phased out, still exists on new Honor low-end models; no update capability)
 
-### Special Thanks (The following webpages have been backed up to the [/Archive](./Archive) folder)
+### Special Thanks (The following webpages have been backed up to the `Archive` folder)
 
 1. [🗂 Exploration of Frontend Version Compatibility Issues - Halohydrocarbon Laboratory](https://supercodepower.com/fontend-target/)
 2. [💖【Vote + Review】What Browser Kernel Version Do You Usually Use - Night Rain Listening to Wind](https://www.yeyulingfeng.com/83723.html)
