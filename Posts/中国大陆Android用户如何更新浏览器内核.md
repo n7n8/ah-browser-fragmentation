@@ -150,7 +150,7 @@ adb shell dumpsys webviewupdate
 浏览器内核版本：Chromium 132
 
 下载链接：[GitHub](https://github.com/n7n8/ah-browser-fragmentation/releases/tag/Huawei(EMUI))
-[Telegram](https://t.me/kkdx10)
+[Telegram](https://t.me/kkdx10/25)
 
 > [!IMPORTANT]
 > 
