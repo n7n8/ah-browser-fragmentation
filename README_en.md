@@ -83,6 +83,7 @@ Note: "Phased out" refers to at least one of the following: "kernel version has 
 8. [After Research, the Android Turnaround Theory Goes Bankrupt - Coolapk](https://www.coolapk.com/feed/67764470)
 9. [Using Honor Phones, Say Goodbye to Lightweight Browsers #android webview #hihonor webview - Honor Club](https://club.honor.com/cn/thread-29317614-1-1.html)
 10. [The fragmentation of browser engine versions is the true challenge for the "Xinchuang" (IT innovation/localization) initiative - Community - Deepin Technology](https://bbs.deepin.org.cn/phone/en/post/302048)
+11. [Insights from a QA Expert | Theory and Practical Experience in WeChat H5 Compatibility Testing - UTest](https://utest.21kunpeng.com/home/topic/wxchatH5?hl=zh-CN)
 
 ### Recommended GitHub Repositories
 
