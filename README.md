@@ -83,6 +83,7 @@ tree/main/
 8. [经过研究，安卓翻身论破产 - 酷安](https://www.coolapk.com/feed/67764470)
 9. [用荣耀手机，告别轻量级浏览器 #android webview #hihonor webview - 荣耀俱乐部](https://club.honor.com/cn/thread-29317614-1-1.html)
 10. [浏览器内核版本碎片化才是信创的真难题 - Community - Deepin Technology](https://bbs.deepin.org.cn/phone/en/post/302048)
+11. [测试匠谈 | 微信 H5 兼容性测试理论和实践经验 - 优测](https://utest.21kunpeng.com/home/topic/wxchatH5?hl=zh-CN)
 
 ### GitHub仓库推荐
 
