@@ -44,7 +44,7 @@ tree/main/
 *   **[Media/](./Media/)**:
     *   Used to store image content.
 *   **[Archive/](./Archive/)**:
-    *   Archive and backup of the content in ["Special Thanks"](./README_en.md#special-thanks-the-following-webpages-have-been-backed-up-to-the-archive-folder).
+    *   Archive and backup of the content in `"Special Thanks"` section.
 *   **[Table/](./Table/)**：
     *   Organize structured data regarding browsers.
 *   **[Posts/](./Posts/)**:
