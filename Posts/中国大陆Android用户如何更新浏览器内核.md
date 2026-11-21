@@ -188,7 +188,7 @@ adb shell dumpsys webviewupdate
 >
 > （留意 共享库版本号，只需要卸载“②有出现且①没有出现”的 共享库版本号 相关的 Trichrome Library，或同 **共享库版本号**，但为较旧 versionCode 的 Trichrome Library！）
 >
-> 以`com.huawei.triwebviewlib_170004310`为例：
+> 以 `com.huawei.triwebviewlib_170004310` 为例：
 > 
 > ```
 > adb shell pm uninstall com.huawei.triwebviewlib_170004310
