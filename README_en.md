@@ -112,3 +112,4 @@ Note: "Phased out" refers to at least one of the following: "kernel version has 
 7. [Runtime Environment - WeChat Open Documentation / Mini Program - Development - Guide / Mini Program Runtime](https://developers.weixin.qq.com/miniprogram/dev/framework/runtime/env.html)
 8. [About Tencent Browsing Service - Official Website Documentation Center - Tencent Browsing Service](https://x5.tencent.com/docs.html#AboutTBS)
 9. [U4 Platform Status](https://developers.uc.cn/features/features.html)
+10. [DCloud - Digital Heaven Official Website](https://www.dcloud.io/)
