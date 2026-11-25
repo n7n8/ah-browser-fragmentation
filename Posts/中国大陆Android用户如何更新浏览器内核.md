@@ -90,7 +90,7 @@ adb shell dumpsys webviewupdate
 
 > [!IMPORTANT]
 > 
-> 需要在“开发者设置”中打开 `USB 调试`，并且打开 `USB 调试（安全设置）`、`USB安装`
+> 需要在“开发者设置”中打开 `USB调试`，并且打开 `USB调试（安全设置）`、`USB安装`
 
 > 如果你是 **不方便使用 Google Play** 的小米手机用户，建议使用 PC adb 安装或 Shizuku + InstallerX Revived 的组合（因为不能直接安装系统 apk）
 > 
